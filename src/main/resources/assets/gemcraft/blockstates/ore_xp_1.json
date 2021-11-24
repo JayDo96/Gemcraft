@@ -1,0 +1,5 @@
+﻿{
+  "variants":  {
+      "": { "model": "gemcraft:block/ore_xp_1" }
+  }
+}

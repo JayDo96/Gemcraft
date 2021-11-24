@@ -1,0 +1,5 @@
+﻿{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "gemcraft:item/sliver_null"
+}}
