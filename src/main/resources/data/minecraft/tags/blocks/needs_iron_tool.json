@@ -1,0 +1,31 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:ore_xp_1",
+      "gemcraft:ore_turbulent",
+      "gemcraft:ore_lithic",
+      "gemcraft:ore_lush_s",
+      "gemcraft:ore_lush_n",
+      "gemcraft:ore_lush_d",
+      "gemcraft:ore_frigid",
+      "gemcraft:ore_radiant_n",
+      "gemcraft:ore_radiant_s",
+      "gemcraft:ore_torrid_n",
+      "gemcraft:ore_torrid_s",
+      "gemcraft:ore_saturated",
+      "gemcraft:ore_chaos_n",
+      "gemcraft:ore_chaos_s",
+      "gemcraft:ore_platinum",
+      "gemcraft:ore_sapphire",
+      "gemcraft:ore_ruby",
+      "gemcraft:ore_aquamarine",
+      "gemcraft:ore_topaz",
+      "gemcraft:ore_turquoise",
+      "gemcraft:ore_jade",
+      "gemcraft:ore_onyx",
+      "gemcraft:ore_opal",
+      "gemcraft:ore_garnet",
+      "gemcraft:ore_beryl"
+    ]
+  }
+  

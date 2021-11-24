@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:ore_catalyzing_s",
+      "gemcraft:ore_catalyzing_n",
+      "gemcraft:ore_entropic",
+      "gemcraft:ore_xp_2",
+      "gemcraft:ore_chrysocolla",
+      "gemcraft:ore_moonstone",
+      "gemcraft:ore_purpurite",
+      "gemcraft:ore_sunstone",
+      "gemcraft:ore_magmite",
+      "gemcraft:ore_corundum",
+      "gemcraft:ore_null",
+      "gemcraft:ore_prismatic",
+      "gemcraft:ore_iridium"
+    ]
+  }
+  

@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:ore_aquamarine",
+      "gemcraft:ore_jade",
+      "gemcraft:ore_garnet",
+      "gemcraft:ore_lush_d",
+      "gemcraft:ore_xp_1"
+    ]
+  }
+  

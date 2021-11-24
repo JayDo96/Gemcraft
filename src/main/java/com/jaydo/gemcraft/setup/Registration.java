@@ -37,7 +37,6 @@ public class Registration {
 	public static final RegistryObject<OreBlock> ORE_RUBY = BLOCKS.register("ore_ruby",OreBlock::new);
 	public static final RegistryObject<OreBlockDirt> ORE_AQUAMARINE = BLOCKS.register("ore_aquamarine",OreBlockDirt::new);
 	public static final RegistryObject<OreBlock> ORE_TOPAZ = BLOCKS.register("ore_topaz",OreBlock::new);
-	public static final RegistryObject<OreBlockDirt> ORE_AMBER = BLOCKS.register("ore_amber",OreBlockDirt::new);
 	public static final RegistryObject<OreBlock> ORE_TURQUOISE = BLOCKS.register("ore_turquoise",OreBlock::new);
 	public static final RegistryObject<OreBlockDirt> ORE_JADE = BLOCKS.register("ore_jade",OreBlockDirt::new);
 	public static final RegistryObject<OreBlock> ORE_ONYX = BLOCKS.register("ore_onyx",OreBlock::new);
@@ -51,7 +50,7 @@ public class Registration {
 	public static final RegistryObject<OreBlockHard> ORE_MAGMITE = BLOCKS.register("ore_magmite",OreBlockHard::new);
 	public static final RegistryObject<OreBlockHard> ORE_CORUNDUM = BLOCKS.register("ore_corundum",OreBlockHard::new);
 	public static final RegistryObject<OreBlock> ORE_XP_0 = BLOCKS.register("ore_xp_0",OreBlock::new);
-	public static final RegistryObject<OreBlock> ORE_XP_1 = BLOCKS.register("ore_xp_1",OreBlock::new);
+	public static final RegistryObject<OreBlockDirt> ORE_XP_1 = BLOCKS.register("ore_xp_1",OreBlockDirt::new);
 	public static final RegistryObject<OreBlock> ORE_XP_2 = BLOCKS.register("ore_xp_2",OreBlock::new);
 	public static final RegistryObject<OreBlock> ORE_TURBULENT = BLOCKS.register("ore_turbulent",OreBlock::new);
 	public static final RegistryObject<OreBlock> ORE_LITHIC = BLOCKS.register("ore_lithic",OreBlock::new);
@@ -61,13 +60,13 @@ public class Registration {
 	public static final RegistryObject<OreBlock> ORE_FRIGID = BLOCKS.register("ore_frigid",OreBlock::new);
 	public static final RegistryObject<OreBlock> ORE_RADIANT_N = BLOCKS.register("ore_radiant_n",OreBlock::new);
 	public static final RegistryObject<OreBlock> ORE_RADIANT_S = BLOCKS.register("ore_radiant_s",OreBlock::new);
-	public static final RegistryObject<OreBlock> ORE_CATALYZING_S = BLOCKS.register("ore_catalyzing_s",OreBlock::new);
-	public static final RegistryObject<OreBlock> ORE_CATALYZING_N = BLOCKS.register("ore_catalyzing_n",OreBlock::new);
-	public static final RegistryObject<OreBlock> ORE_ENTROPIC = BLOCKS.register("ore_entropic",OreBlock::new);
+	public static final RegistryObject<OreBlockHard> ORE_CATALYZING_S = BLOCKS.register("ore_catalyzing_s",OreBlockHard::new);
+	public static final RegistryObject<OreBlockHard> ORE_CATALYZING_N = BLOCKS.register("ore_catalyzing_n",OreBlockHard::new);
+	public static final RegistryObject<OreBlockHard> ORE_ENTROPIC = BLOCKS.register("ore_entropic",OreBlockHard::new);
 	public static final RegistryObject<OreBlock> ORE_TORRID_N = BLOCKS.register("ore_torrid_n",OreBlock::new);
 	public static final RegistryObject<OreBlock> ORE_TORRID_S = BLOCKS.register("ore_torrid_s",OreBlock::new);
 	public static final RegistryObject<OreBlock> ORE_SATURATED = BLOCKS.register("ore_saturated",OreBlock::new);
-	public static final RegistryObject<OreBlock> ORE_NULL = BLOCKS.register("ore_null",OreBlock::new);
+	public static final RegistryObject<OreBlockHard> ORE_NULL = BLOCKS.register("ore_null",OreBlockHard::new);
 	public static final RegistryObject<OreBlock> ORE_CHAOS_N = BLOCKS.register("ore_chaos_n",OreBlock::new);
 	public static final RegistryObject<OreBlock> ORE_CHAOS_S = BLOCKS.register("ore_chaos_s",OreBlock::new);
 	public static final RegistryObject<OreBlock> ORE_PRISMATIC = BLOCKS.register("ore_prismatic",OreBlock::new);
@@ -75,14 +74,13 @@ public class Registration {
 	public static final RegistryObject<OreBlock> ORE_SILVER_S = BLOCKS.register("ore_silver_s",OreBlock::new);
 	public static final RegistryObject<OreBlock> ORE_SILVER_D = BLOCKS.register("ore_silver_d",OreBlock::new);
 	public static final RegistryObject<OreBlock> ORE_PLATINUM = BLOCKS.register("ore_platinum",OreBlock::new);
-	public static final RegistryObject<OreBlock> ORE_IRIDIUM = BLOCKS.register("ore_iridium",OreBlock::new);
+	public static final RegistryObject<OreBlockHard> ORE_IRIDIUM = BLOCKS.register("ore_iridium",OreBlockHard::new);
 		//block items
 	public static final RegistryObject<BlockItem> ORE_ITEM_SAPPHIRE = ITEMS.register("ore_sapphire",() -> new BlockItem(ORE_SAPPHIRE.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_TURBULENT = ITEMS.register("ore_turbulent",() -> new BlockItem(ORE_TURBULENT.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_RUBY = ITEMS.register("ore_ruby",() -> new BlockItem(ORE_RUBY.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_AQUAMARINE = ITEMS.register("ore_aquamarine",() -> new BlockItem(ORE_AQUAMARINE.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_TOPAZ = ITEMS.register("ore_topaz",() -> new BlockItem(ORE_TOPAZ.get(),new Item.Properties().tab(Main.GemcraftTab)));
-	public static final RegistryObject<BlockItem> ORE_ITEM_AMBER = ITEMS.register("ore_amber",() -> new BlockItem(ORE_AMBER.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_TURQUOISE = ITEMS.register("ore_turquoise",() -> new BlockItem(ORE_TURQUOISE.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_JADE = ITEMS.register("ore_jade",() -> new BlockItem(ORE_JADE.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_ONYX = ITEMS.register("ore_onyx",() -> new BlockItem(ORE_ONYX.get(),new Item.Properties().tab(Main.GemcraftTab)));
