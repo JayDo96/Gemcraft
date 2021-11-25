@@ -10,8 +10,7 @@ public class OreBlockSand extends Block{
 		super(Properties.of(Material.SAND)
 				.sound(SoundType.SAND)
 				.strength(1.0f)
-				.explosionResistance(1)
-		);
+				.explosionResistance(1));
 	}
 
 }

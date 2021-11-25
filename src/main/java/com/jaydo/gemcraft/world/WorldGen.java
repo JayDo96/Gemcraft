@@ -77,10 +77,10 @@ public class WorldGen {
     public static int EssenceVeinSizeS = 5;
     public static int EssenceVeinSizeL = 10;
     public static int RarityCommon = 20;
-    public static int RarityUncommon = 15;
-    public static int RarityRare = 10;
-    public static int RarityEpic=5;
-    public static int RarityLegendary=3;
+    public static int RarityUncommon = 10;
+    public static int RarityRare = 5;
+    public static int RarityEpic=3;
+    public static int RarityLegendary=2;
 
     public static void registerOres() {
         ///////////OVERWORLD START
@@ -104,7 +104,7 @@ public class WorldGen {
         OVR_ORE_TIN_GEN = register("ovr_ore_tin_gen", Feature.ORE
                 .configured(new OreConfiguration(new TagMatchTest(Main.OVR_STONE),
                         Registration.ORE_TIN.get().defaultBlockState(),
-                        5, // Vein size
+                        8, // Vein size
                         0.5F))  // Exposition of the Ore
                 .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(32), VerticalAnchor.absolute(128))))
                 .squared()

@@ -10,8 +10,7 @@ public class OreBlockDirt extends Block{
 		super(Properties.of(Material.DIRT)
 				.sound(SoundType.GRAVEL)
 				.strength(1.0f)
-				.explosionResistance(1)
-		);
+				.explosionResistance(1));
 	}
 
 }

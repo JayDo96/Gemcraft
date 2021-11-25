@@ -297,15 +297,22 @@ public class Registration {
 	public static final RegistryObject<Item> RING_BRONZE = ITEMS.register("ring_bronze",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> RING_ELEMENTUM = ITEMS.register("ring_elementum",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> RING_PLATINUM = ITEMS.register("ring_platinum",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> RING_IRIDIUM = ITEMS.register("ring_iridium",() -> new MaterialItem(new Item.Properties().fireResistant().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> RING_IRIDIUM = ITEMS.register("ring_iridium",() -> new MaterialItem(new Item.Properties()));
 
-	//public static final RegistryObject<Item> AMULET_COPPER = ITEMS.register("amulet_copper",() -> new MundaneItem(new Item.Properties()));
-	//public static final RegistryObject<Item> AMULET_IRON = ITEMS.register("amulet_iron",() -> new MundaneItem(new Item.Properties()));
-	//public static final RegistryObject<Item> AMULET_GOLD = ITEMS.register("amulet_gold",() -> new MundaneItem(new Item.Properties()));
-	//public static final RegistryObject<Item> AMULET_NETHERITE = ITEMS.register("amulet_netherite",() -> new MundaneItem(new Item.Properties().fireResistant().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> AMULET_BRONZE = ITEMS.register("amulet_bronze",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> AMULET_ELEMENTUM = ITEMS.register("amulet_elementum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> AMULET_PLATINUM = ITEMS.register("amulet_platinum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> AMULET_IRIDIUM = ITEMS.register("amulet_iridium",() -> new MaterialItem(new Item.Properties()));
+
+	public static final RegistryObject<Item> BELT_BRONZE = ITEMS.register("belt_bronze",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> BELT_ELEMENTUM = ITEMS.register("belt_elementum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> BELT_PLATINUM = ITEMS.register("belt_platinum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> BELT_IRIDIUM = ITEMS.register("belt_iridium",() -> new MaterialItem(new Item.Properties()));
+
+	public static final RegistryObject<Item> VEST_BRONZE = ITEMS.register("vest_bronze",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> VEST_ELEMENTUM = ITEMS.register("vest_elementum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> VEST_PLATINUM = ITEMS.register("vest_platinum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> VEST_IRIDIUM = ITEMS.register("vest_iridium",() -> new MaterialItem(new Item.Properties()));
 	//T2 items
-	//public static final RegistryObject<Item> RING_AMETHYST = ITEMS.register("ring_amethyst",() -> new MundaneItem(new Item.Properties()));
-	//public static final RegistryObject<Item> RING_REDSTONE = ITEMS.register("ring_redstone",() -> new MundaneItem(new Item.Properties()));
-	//public static final RegistryObject<Item> RING_OBSIDIAN = ITEMS.register("ring_obsidian",() -> new MundaneItem(new Item.Properties()));
-	//public static final RegistryObject<Item> RING_SUSTENANCE = ITEMS.register("ring_sustenance",() -> new MundaneItem(new Item.Properties().fireResistant().rarity(Rarity.EPIC)));
+
 }
