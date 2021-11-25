@@ -4,13 +4,13 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.material.Material;
 
-public class OreBlockHard extends Block{
+public class OreBlockExtreme extends Block{
 
-	public OreBlockHard() {
+	public OreBlockExtreme() {
 		super(Properties.of(Material.STONE)
 				.sound(SoundType.DEEPSLATE)
-				.strength(10.0f)
-				.explosionResistance(1000)
+				.strength(20.0f)
+				.explosionResistance(20000)
 		);
 	}
 

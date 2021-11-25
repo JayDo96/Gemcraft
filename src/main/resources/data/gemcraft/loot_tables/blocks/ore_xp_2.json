@@ -25,7 +25,7 @@
                   }
                 }
               ],
-              "name": "gemcraft:ore_catalyzing_n"
+              "name": "gemcraft:ore_xp_2"
             },
             {
               "type": "minecraft:item",
@@ -34,8 +34,8 @@
                   "function": "minecraft:set_count",
                   "count": {
                     "type": "minecraft:uniform",
-                    "min": 1.0,
-                    "max": 4.0
+                    "min": 2.0,
+                    "max": 3.0
                   },
                   "add": false
                 },
@@ -48,7 +48,7 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "gemcraft:essence_catalyzing"
+              "name": "gemcraft:essence_xp"
             }
           ]
         }

@@ -25,7 +25,7 @@
                   }
                 }
               ],
-              "name": "gemcraft:ore_catalyzing_n"
+              "name": "gemcraft:ore_radiant_n"
             },
             {
               "type": "minecraft:item",
@@ -48,7 +48,7 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "gemcraft:essence_catalyzing"
+              "name": "gemcraft:essence_radiant"
             }
           ]
         }

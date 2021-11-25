@@ -7,8 +7,8 @@ import net.minecraft.world.level.material.Material;
 public class OreBlockDirt extends Block{
 
 	public OreBlockDirt() {
-		super(Properties.of(Material.SAND)
-				.sound(SoundType.SAND)
+		super(Properties.of(Material.DIRT)
+				.sound(SoundType.GRAVEL)
 				.strength(1.0f)
 				.explosionResistance(1)
 		);

@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "rolls":1,
+      "bonus_rolls": 0.5,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_torrid"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_frigid"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_prismatic"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_radiant"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_saturated"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_lush"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_lithic"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_turbulent"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_entropic"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_catalyzing"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemcraft:essence_null"
+        }
+      ]
+    }
+  ]
+}

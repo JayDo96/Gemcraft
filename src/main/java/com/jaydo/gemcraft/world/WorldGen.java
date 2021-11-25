@@ -72,13 +72,14 @@ public class WorldGen {
     public static ConfiguredFeature<?, ?> NETHER_ORE_CATALYZING_GEN;
     public static ConfiguredFeature<?, ?> OVR_ORE_CATALYZING_GEN;
     public static ConfiguredFeature<?, ?> END_ORE_NULL_GEN;
+    public static ConfiguredFeature<?, ?> END_ORE_CHAOS_GEN;
     public static int GemVeinSize = 4;
     public static int EssenceVeinSizeS = 5;
     public static int EssenceVeinSizeL = 10;
-    public static int RarityCommon = 30;
-    public static int RarityUncommon = 20;
-    public static int RarityRare = 15;
-    public static int RarityEpic=10;
+    public static int RarityCommon = 20;
+    public static int RarityUncommon = 15;
+    public static int RarityRare = 10;
+    public static int RarityEpic=5;
     public static int RarityLegendary=3;
 
     public static void registerOres() {
@@ -310,6 +311,14 @@ public class WorldGen {
                 .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(80), VerticalAnchor.absolute(128))))
                 .squared()
                 .count(RarityRare));
+        END_ORE_CHAOS_GEN = register("end_ore_chaos_gen", Feature.ORE
+                .configured(new OreConfiguration(new TagMatchTest(Main.END_STONE),
+                        Registration.ORE_CHAOS_E.get().defaultBlockState(),
+                        EssenceVeinSizeS, // Vein size
+                        0.25F))  // How exposed the ore is
+                .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(0), VerticalAnchor.absolute(64))))
+                .squared()
+                .count(RarityRare));
         OVR_ORE_XP_GEN = register("ovr_ore_xp_gen", Feature.ORE
                 .configured(new OreConfiguration(new TagMatchTest(Main.OVR_DEEPSLATE),
                         Registration.ORE_XP_0.get().defaultBlockState(),
@@ -482,6 +491,8 @@ public class WorldGen {
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, END_ORE_PRISMATIC_GEN);
             if (END_ORE_NULL_GEN != null)
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, END_ORE_NULL_GEN);
+            if (END_ORE_CHAOS_GEN != null)
+                generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, END_ORE_CHAOS_GEN);
         }
         if (!event.getCategory().equals(Biome.BiomeCategory.THEEND) &&(!event.getCategory().equals(Biome.BiomeCategory.NETHER))) {
             if (OVR_ORE_SILVER_GEN != null)
