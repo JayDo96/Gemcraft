@@ -3,6 +3,7 @@ Im trying to space out the ores as much as I can to avoid cluttering the ground.
 Current gems:
 Lapis Gem - rare drop from lapis
 Jet - Drops rarley from Coal
+cassiterite - Drops rarley from tin ore
 Bone- Made from bone blocks
 Amber- Drops rarley from Logs
 Jasper - Drops rarley from gravel
