@@ -1,46 +1,44 @@
-
-Source installation information for modders
--------------------------------------------
-This code follows the Minecraft Forge installation methodology. It will apply
-some small patches to the vanilla MCP source code, giving you and it access 
-to some of the data and functions you need to build a successful mod.
-
-Note also that the patches are built against "un-renamed" MCP source code (aka
-SRG Names) - this means that you will not be able to read them directly against
-normal code.
-
-Setup Process:
-==============================
-
-Step 1: Open your command-line and browse to the folder where you extracted the zip file.
-
-Step 2: You're left with a choice.
-If you prefer to use Eclipse:
-1. Run the following command: `gradlew genEclipseRuns` (`./gradlew genEclipseRuns` if you are on Mac/Linux)
-2. Open Eclipse, Import > Existing Gradle Project > Select Folder 
-   or run `gradlew eclipse` to generate the project.
-
-If you prefer to use IntelliJ:
-1. Open IDEA, and import project.
-2. Select your build.gradle file and have it import.
-3. Run the following command: `gradlew genIntellijRuns` (`./gradlew genIntellijRuns` if you are on Mac/Linux)
-4. Refresh the Gradle Project in IDEA if required.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can 
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-=============================
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license, if you do not agree with it you can change your mapping names to other crowdsourced names in your 
-build.gradle. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/MinecraftForge/MCPConfig/blob/master/Mojang.md
-
-Additional Resources: 
-=========================
-Community Documentation: http://mcforge.readthedocs.io/en/latest/gettingstarted/  
-LexManos' Install Video: https://www.youtube.com/watch?v=8VEdtQLuLO0  
-Forge Forum: https://forums.minecraftforge.net/  
-Forge Discord: https://discord.gg/UvedJ9m  
+This is my first mod. Its based around magic using various gems and essences that spawn throughout the world.
+Im trying to space out the ores as much as I can to avoid cluttering the ground. Each ore has places that is spawns more often or not at all in someplaces
+Current gems:
+Lapis Gem
+Jet - Drops rarley from Coal
+Bone- Made from bone blocks
+Amber- Drops rarley from Logs
+Jasper - Drops rarley from gravel
+Sylvanite -Drops rarley from Gold ore
+Proustite - drops rarley from Silver ore
+Malachite - drops rarley from copper ore
+Magnetite - drops rarly from iron ore
+Saphire - spawns in the overworld below 64
+Fossil - rare drop from clay blocks
+Amethyst - made from Amethyst blocks found in the vanilla game
+Ruby - spawns in the overworld below 32
+Aquamarine - spawns in sand in wet biomes
+Topaz - spawns in the overworld above 64
+Turquoise - spawns in the desert in the sandstone layer
+Jade - spawns in gravel throughout the overworld
+Cinnabar - rare drop from redstone
+Sperrylite - rare drop from platinum ore
+Ender Gem - rare drop from ender creatures
+Onyx - spawns in the overworld below 16
+Glowstone Gem - rare drop from glowstone
+Opal - spawns in the overworld above 80
+Garnet - spawns in the nether in soulsand
+Chrysocolla - spawns in the end
+Beryl - spawns in the nether in basalt
+Diamond - from the vanilla game
+Fools gold - rare drop from nether gold
+Smoky Quartz - rare drop from nether quartz
+Bowieite - rare drop from iridium ore
+Emerald - from the vanilla game
+Obisidian - made from crying obsidian
+Chromite - rare drop from diamond ore
+Wither Bone - rare drop from wither skeletons/wither
+Moonstone -spawns in the end
+Purpurite - spawns in the end
+Sunstone - spawns in the nether near the top of the world
+Magmite - spawns in the nether near the bottom of the world
+Corundum - spawns in the overworld among the bedrock layer
+Netherstar - From vanilla game
+Dragonstone - drops from the enderdragon
