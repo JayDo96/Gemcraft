@@ -2,19 +2,6 @@
     "itemGroup.GemcraftTab": "Gemcraft",
     "itemGroup.GemcraftTabMaterial": "Gemcraft Materials",
 
-    "item.gemcraft.essence_xp": "Wisdom Essence",
-    "item.gemcraft.essence_torrid": "Torrid Essence",
-    "item.gemcraft.essence_frigid": "Frigid Essence",
-    "item.gemcraft.essence_prismatic": "Prismatic Essence",
-    "item.gemcraft.essence_radiant": "Radiant Essence",
-    "item.gemcraft.essence_saturated": "Saturated Essence",
-    "item.gemcraft.essence_lush": "Lush Essence",
-    "item.gemcraft.essence_lithic": "Lithic Essence",
-    "item.gemcraft.essence_turbulent": "Turbulent Essence",
-    "item.gemcraft.essence_entropic": "Entropic Essence",
-    "item.gemcraft.essence_catalyzing": "Catalyzing Essence",
-    "item.gemcraft.essence_null": "Null Essence",
-
     "item.gemcraft.gem_amethyst": "Cut Amethyst",
     "item.gemcraft.gem_sylvanite": "Cut Sylvanite",
     "item.gemcraft.gem_proustite": "Cut Proustite",
@@ -59,7 +46,6 @@
     "item.gemcraft.gem_wither": "Cut Wither Bone",
     "item.gemcraft.gem_fools_gold": "Cut Fool's Gold",
    
-
     "item.gemcraft.rough_jet": "Rough Jet",
     "item.gemcraft.rough_jasper": "Rough Jasper",
     "item.gemcraft.rough_slyvanite": "Rough Slyvanite",
@@ -197,8 +183,97 @@
     "item.gemcraft.ore_silver_d": "Silver Ore",
     "item.gemcraft.ore_tin": "Tin Ore",
     "item.gemcraft.ore_platinum": "Platinum Ore",
-    "item.gemcraft.ore_iridium": "Iridium Ore"
-
-
+    "item.gemcraft.ore_iridium": "Iridium Ore",
+    
+    "block.gemcraft.storage_bronze": "Bronze Block",
+    "block.gemcraft.storage_elementum": "Elementum Block",
+    "block.gemcraft.storage_tin": "Tin Block",
+    "block.gemcraft.storage_silver": "Silver Block",
+    "block.gemcraft.storage_platinum": "Platinum Block",
+    "block.gemcraft.storage_iridium": "Iridium Block",
+    
+    "item.gemcraft.storage_bronze": "Bronze Block",
+    "item.gemcraft.storage_elementum": "Elementum Block",
+    "item.gemcraft.storage_tin": "Tin Block",
+    "item.gemcraft.storage_silver": "Silver Block",
+    "item.gemcraft.storage_platinum": "Platinum Block",
+    "item.gemcraft.storage_iridium": "Iridium Block",
+    
+    "item.gemcraft.raw_tin": "Raw Tin",
+    "item.gemcraft.raw_silver": "Raw Silver",
+    "item.gemcraft.raw_platinum": "Raw Platinum",
+    "item.gemcraft.raw_iridium": "Raw Iridium",
+    
+    "item.gemcraft.dust_bronze": "Bronze Dust",
+    "item.gemcraft.dust_elementum": "Elementum Dust",
+    "item.gemcraft.dust_tin": "Copper Dust",
+    "item.gemcraft.dust_copper": "Tin Dust",
+    "item.gemcraft.dust_silver": "Silver Dust",
+    "item.gemcraft.dust_platinum": "Platinum Dust",
+    "item.gemcraft.dust_iridium": "Iridium Dust",
+    
+    "item.gemcraft.ingot_bronze": "Bronze Ingot",
+    "item.gemcraft.ingot_elementum": "Elementum Ingot",,
+    "item.gemcraft.ingot_tin": "Tin Ingot",
+    "item.gemcraft.ingot_silver": "Silver Ingot",
+    "item.gemcraft.ingot_platinum": "Platinum Ingot",
+    "item.gemcraft.ingot_iridium": "Iridium Ingot",
+    
+     "item.gemcraft.essence_xp": "Wisdom Essence",
+      
+    "item.gemcraft.essence_torrid": "Torrid Essence",
+    "item.gemcraft.sliver_torrid": "Torrid Sliver",
+    "item.gemcraft.shard_torrid": "Torrid Shard",
+    "item.gemcraft.core_torrid": "Torrid Core",
+    
+    "item.gemcraft.essence_frigid": "Frigid Essence",
+    "item.gemcraft.sliver_frigid": "Frigid Sliver",
+    "item.gemcraft.shard_frigid": "Frigid Shard",
+    "item.gemcraft.core_frigid": "Frigid Core",
+    
+    "item.gemcraft.essence_prismatic": "Prismatic Essence",
+    "item.gemcraft.sliver_prismatic": "Prismatic Sliver",
+    "item.gemcraft.shard_prismatic": "Prismatic Shard",
+    "item.gemcraft.core_prismatic": "Prismatic Core",
+    
+    "item.gemcraft.essence_radiant": "Radiant Essence",
+    "item.gemcraft.sliver_radiant": "Radiant Sliver",
+    "item.gemcraft.shard_radiant": "Radiant Shard",
+    "item.gemcraft.core_radiant": "Radiant Core",
+    
+    "item.gemcraft.essence_saturated": "Saturated Essence",
+    "item.gemcraft.sliver_saturated": "Saturated Sliver",
+    "item.gemcraft.shard_saturated": "Saturated Shard",
+    "item.gemcraft.core_saturated": "Saturated Core",
+    
+    "item.gemcraft.essence_lush": "Lush Essence",
+    "item.gemcraft.sliver_lush": "Lush Sliver",
+    "item.gemcraft.shard_lush": "Lush Shard",
+    "item.gemcraft.core_lush": "Lush Core",
+    
+    "item.gemcraft.essence_lithic": "Lithic Essence",
+    "item.gemcraft.sliver_lithic": "Lithic Sliver",
+    "item.gemcraft.shard_lithic": "Lithic Shard",
+    "item.gemcraft.core_lithic": "Lithic Core",
+    
+    "item.gemcraft.essence_turbulent": "Turbulent Essence",
+    "item.gemcraft.sliver_turbulent": "Turbulent Sliver",
+    "item.gemcraft.shard_turbulent": "Turbulent Shard",
+    "item.gemcraft.core_turbulent": "Turbulent Core",
+    
+    "item.gemcraft.essence_entropic": "Entropic Essence",
+    "item.gemcraft.sliver_entropic": "Entropic Sliver",
+    "item.gemcraft.shard_entropic": "Entropic Shard",
+    "item.gemcraft.core_entropic": "Entropic Core",
+    
+    "item.gemcraft.essence_catalyzing": "Catalyzing Essence",
+    "item.gemcraft.sliver_catalyzing": "Catalyzing Sliver",
+    "item.gemcraft.shard_catalyzing": "Catalyzing Shard",
+    "item.gemcraft.core_catalyzing": "Catalyzing Core",
+    
+    "item.gemcraft.essence_null": "Null Essence",
+    "item.gemcraft.sliver_null": "Null Sliver",
+    "item.gemcraft.shard_null": "Null Shard",
+    "item.gemcraft.core_null": "Null Core", 
 
   }
