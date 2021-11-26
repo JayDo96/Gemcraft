@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:essence_null",
+      "gemcraft:sliver_null",
+      "gemcraft:shard_null",
+      "gemcraft:core_null"
+    ]
+  }
