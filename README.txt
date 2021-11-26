@@ -1,7 +1,7 @@
 This is my first mod. Its based around magic using various gems and essences that spawn throughout the world.
 Im trying to space out the ores as much as I can to avoid cluttering the ground. Each ore has places that is spawns more often or not at all in someplaces
 Current gems:
-Lapis Gem
+Lapis Gem - rare drop from lapis
 Jet - Drops rarley from Coal
 Bone- Made from bone blocks
 Amber- Drops rarley from Logs
