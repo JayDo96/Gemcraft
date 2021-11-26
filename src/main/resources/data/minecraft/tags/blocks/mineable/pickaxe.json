@@ -37,7 +37,13 @@
       "gemcraft:ore_silver_d",
       "gemcraft:ore_platinum",
       "gemcraft:ore_iridium",
-      "gemcraft:ore_sapphire"
+      "gemcraft:ore_sapphire",
+      "gemcraft:storage_bronze",
+      "gemcraft:storage_tin",
+      "gemcraft:storage_silver",
+      "gemcraft:storage_elementum",
+      "gemcraft:storage_platinum",
+      "gemcraft:storage_iridium"
     ]
   }
   
