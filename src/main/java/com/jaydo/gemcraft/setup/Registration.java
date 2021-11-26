@@ -173,6 +173,7 @@ public class Registration {
 	public static final RegistryObject<Item> GEM_PROUSTITE = ITEMS.register("gem_proustite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 	public static final RegistryObject<Item> GEM_MALACHITE = ITEMS.register("gem_malachite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 	public static final RegistryObject<Item> GEM_MAGNETITE = ITEMS.register("gem_magnetite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> GEM_CASSITERITE = ITEMS.register("gem_cassiterite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 
 	public static final RegistryObject<Item> GEM_SAPPHIRE = ITEMS.register("gem_sapphire",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
 	public static final RegistryObject<Item> GEM_FOSSIL = ITEMS.register("gem_fossil",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
@@ -217,6 +218,7 @@ public class Registration {
 	public static final RegistryObject<Item> ROUGH_PROUSTITE = ITEMS.register("rough_proustite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 	public static final RegistryObject<Item> ROUGH_MALACHITE = ITEMS.register("rough_malachite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 	public static final RegistryObject<Item> ROUGH_MAGNETITE = ITEMS.register("rough_magnetite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> ROUGH_CASSITERITE = ITEMS.register("rough_cassiterite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 
 	public static final RegistryObject<Item> ROUGH_SAPPHIRE = ITEMS.register("rough_sapphire",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
 	public static final RegistryObject<Item> ROUGH_FOSSIL = ITEMS.register("rough_fossil",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
