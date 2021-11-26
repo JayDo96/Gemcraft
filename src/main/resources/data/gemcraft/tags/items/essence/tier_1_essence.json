@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:essence_torrid",
+      "gemcraft:essence_frigid",
+      "gemcraft:essence_prismatic",
+      "gemcraft:essence_radiant",
+      "gemcraft:essence_saturated",
+      "gemcraft:essence_lush",
+      "gemcraft:essence_lithic",
+      "gemcraft:essence_turbulent",
+      "gemcraft:essence_entropic",
+      "gemcraft:essence_catalyzing",
+      "gemcraft:essence_null",
+      "gemcraft:essence_xp"
+    ]
+  }

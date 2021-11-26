@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:essence_saturated",
+      "gemcraft:sliver_saturated",
+      "gemcraft:shard_saturated",
+      "gemcraft:core_saturated"
+    ]
+  }

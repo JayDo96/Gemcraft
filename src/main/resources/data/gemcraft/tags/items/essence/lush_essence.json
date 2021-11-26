@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:essence_lush",
+      "gemcraft:sliver_lush",
+      "gemcraft:shard_lush",
+      "gemcraft:core_lush"
+    ]
+  }
