@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:sliver_torrid",
+      "gemcraft:sliver_frigid",
+      "gemcraft:sliver_prismatic",
+      "gemcraft:sliver_radiant",
+      "gemcraft:sliver_saturated",
+      "gemcraft:sliver_lush",
+      "gemcraft:sliver_lithic",
+      "gemcraft:sliver_turbulent",
+      "gemcraft:sliver_entropic",
+      "gemcraft:sliver_catalyzing",
+      "gemcraft:sliver_null"
+    ]
+  }
