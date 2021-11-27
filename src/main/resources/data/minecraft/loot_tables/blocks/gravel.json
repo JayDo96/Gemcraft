@@ -32,7 +32,7 @@
               "children": [
                 {
                   "type": "minecraft:item",
-                  "weight": 29,
+                  "weight": 19,
                   "name": "minecraft:flint",
                   "conditions": [
                     {
