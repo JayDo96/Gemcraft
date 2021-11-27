@@ -1,0 +1,8 @@
+
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_bowieite"
+  },
+  "result": "gemcraft:gem_bowieite",
+  "count": 1
+}
