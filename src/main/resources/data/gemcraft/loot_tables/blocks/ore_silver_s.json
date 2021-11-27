@@ -29,7 +29,7 @@
             },
             {
               "type": "minecraft:item",
-              "weight": 29,
+              "weight": 19,
               "name": "gemcraft:raw_silver",
               "functions": [
                 {
