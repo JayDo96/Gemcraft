@@ -1,16 +1,16 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_sapphire",
-      "gemcraft:gem_fossil",
-      "gemcraft:gem_amethyst",
-      "gemcraft:gem_ruby",
-      "gemcraft:gem_aquamarine",
-      "gemcraft:gem_topaz",
-      "gemcraft:gem_torquoise",
-      "gemcraft:gem_jade",
-      "gemcraft:gem_cinnabar",
-      "gemcraft:gem_sperrylite",
-      "gemcraft:gem_ender"
+      "forge:gems/sapphire",
+      "forge:gems/fossil",
+      "forge:gems/amethyst",
+      "forge:gems/ruby",
+      "forge:gems/aquamarine",
+      "forge:gems/topaz",
+      "forge:gems/torquoise",
+      "forge:gems/jade",
+      "forge:gems/cinnabar",
+      "forge:gems/sperrylite",
+      "forge:gems/ender"
     ]
   }
