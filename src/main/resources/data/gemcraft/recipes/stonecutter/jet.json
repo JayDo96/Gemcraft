@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_jet",
+    "tag": "forge:gems/jet"
+  },
+  "result": "gemcraft:gem_jet",
+  "count": 1
+}
