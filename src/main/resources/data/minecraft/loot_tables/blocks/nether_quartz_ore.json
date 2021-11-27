@@ -30,7 +30,7 @@
             {
               "type": "minecraft:item",
               "weight": 19,
-              "name": "minecraft:quartz,
+              "name": "minecraft:quartz",
               "functions": [
                 {
                   "function": "minecraft:set_count",
