@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "gemcraft:gem/tier_1_gem"
+  },
+  "result": "gemcraft:dust_gem",
+  "count": 1
+}
