@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DED",
+    "EDE",
+    "DED"
+  ],
+  "key": {
+    "D": {
+      "item": "gemcraft:dust_gem",
+      "tag": "forge:dusts/gem"
+    },
+    "E": {
+      "item": "minecraft:essence_radiant",
+      "tag": "forge:essence/light"
+    }
+  },
+  "result": {
+    "item": "gemcraft:sliver_radiant",
+    "count": 1
+  }
+}
