@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DED",
+    "EDE",
+    "DED"
+  ],
+  "key": {
+    "D": {
+      "item": "gemcraft:dust_gem",
+      "tag": "forge:dusts/gem"
+    },
+    "E": {
+      "item": "minecraft:essence_catalyzing",
+      "tag": "forge:essence/water"
+    }
+  },
+  "result": {
+    "item": "gemcraft:sliver_catalyzing",
+    "count": 1
+  }
+}
