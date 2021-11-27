@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:gem_magmite",
+      "gemcraft:gem_moonstone",
+      "gemcraft:gem_sunstone",
+      "gemcraft:gem_purpurite",
+      "gemcraft:gem_corundum",
+      "gemcraft:gem_nether",
+      "gemcraft:gem_dragonstone"
+    ]
+  }
