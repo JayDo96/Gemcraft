@@ -1,0 +1,8 @@
+
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_beryl"
+  },
+  "result": "gemcraft:gem_beryl",
+  "count": 1
+}
