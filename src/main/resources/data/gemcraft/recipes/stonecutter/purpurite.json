@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_purpurite"
+  },
+  "result": "gemcraft:gem_purpurite",
+  "count": 1
+}
