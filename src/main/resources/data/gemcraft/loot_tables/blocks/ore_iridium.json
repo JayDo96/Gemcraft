@@ -56,7 +56,7 @@
         {
           "type": "minecraft:item",
           "weight": 1,
-          "name": "gemcraft:bowieite",
+          "name": "gemcraft:rough_bowieite",
           "functions": [
             {
               "function": "minecraft:set_count",
