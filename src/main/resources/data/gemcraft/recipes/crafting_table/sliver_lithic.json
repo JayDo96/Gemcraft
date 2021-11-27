@@ -7,11 +7,9 @@
   ],
   "key": {
     "D": {
-      "item": "gemcraft:dust_gem",
       "tag": "forge:dusts/gem"
     },
     "E": {
-      "item": "minecraft:essence_lithic",
       "tag": "forge:essence/rock"
     }
   },
