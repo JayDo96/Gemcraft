@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_cassiterite"
+  },
+  "result": "gemcraft:gem_cassiterite",
+  "count": 1
+}
