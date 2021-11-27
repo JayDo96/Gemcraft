@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:nether_star"
+  },
+  "result": "gemcraft:gem_nether",
+  "count": 1
+}
