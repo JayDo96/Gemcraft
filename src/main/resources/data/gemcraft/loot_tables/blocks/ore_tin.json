@@ -29,7 +29,7 @@
             },
             {
               "type": "minecraft:item",
-              "weight": 19,
+              "weight": 29,
               "name": "gemcraft:raw_tin",
               "functions": [
                 {
@@ -54,7 +54,14 @@
             {
               "type": "minecraft:item",
               "weight": 1,
-              "name": "gemcraft:rough_cassiterite"
+              "name": "gemcraft:rough_cassiterite",
+              "functions": [
+                {
+                  "function": "minecraft:apply_bonus",
+                  "enchantment": "minecraft:fortune",
+                  "formula": "minecraft:ore_drops"
+                }
+              ]
             }
           ]
         }
