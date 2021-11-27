@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_aquamarine"
+  },
+  "result": "gemcraft:gem_aquamarine",
+  "count": 1
+}
