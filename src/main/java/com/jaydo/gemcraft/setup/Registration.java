@@ -251,6 +251,8 @@ public class Registration {
 	public static final RegistryObject<Item> ROUGH_DRAGONSTONE= ITEMS.register("rough_dragonstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
 
 	//Materials
+	public static final RegistryObject<Item> DUST_GEM = ITEMS.register("dust_gem",() -> new MaterialItem(new Item.Properties()));
+	
 	public static final RegistryObject<Item> INGOT_BRONZE = ITEMS.register("ingot_bronze",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> DUST_BRONZE = ITEMS.register("dust_bronze",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> NUGGET_BRONZE = ITEMS.register("nugget_bronze",() -> new MaterialItem(new Item.Properties()));
