@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_chromite"
+  },
+  "result": "gemcraft:gem_chromite",
+  "count": 1
+}

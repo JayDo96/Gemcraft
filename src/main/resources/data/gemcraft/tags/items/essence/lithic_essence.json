@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:essence_lithic",
+      "gemcraft:sliver_lithic",
+      "gemcraft:shard_lithic",
+      "gemcraft:core_lithic"
+    ]
+  }

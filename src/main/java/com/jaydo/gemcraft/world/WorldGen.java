@@ -40,6 +40,7 @@ public class WorldGen {
     public static ConfiguredFeature<?, ?> OVR_ORE_TURQUOISE_GEN;
     public static ConfiguredFeature<?, ?> OVR_ORE_ONYX_GEN;
     public static ConfiguredFeature<?, ?> OVR_ORE_OPAL_GEN;
+    public static ConfiguredFeature<?, ?> OVR_ORE_TOPAZ_GEN;
     public static ConfiguredFeature<?, ?> OVR_ORE_JADE_GEN;
     public static ConfiguredFeature<?, ?> NETHER_ORE_GARNET_GEN;
     public static ConfiguredFeature<?, ?> NETHER_ORE_BERYL_GEN;
@@ -100,7 +101,15 @@ public class WorldGen {
                 .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(0), VerticalAnchor.absolute(20))))
                 .squared()
                 .count(RarityCommon));
-
+               
+        OVR_ORE_TOPAZ_GEN = register("ovr_ore_topaz_gen", Feature.ORE
+                .configured(new OreConfiguration(new TagMatchTest(Main.OVR_STONE),
+                        Registration.ORE_TOPAZ.get().defaultBlockState(),
+                        GemVeinSize, // Vein size
+                        0.5F))  // Exposition of the Ore
+                .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(80), VerticalAnchor.absolute(256))))
+                .squared()
+                .count(RarityRare));
         OVR_ORE_TIN_GEN = register("ovr_ore_tin_gen", Feature.ORE
                 .configured(new OreConfiguration(new TagMatchTest(Main.OVR_STONE),
                         Registration.ORE_TIN.get().defaultBlockState(),
@@ -531,6 +540,8 @@ public class WorldGen {
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, OVR_ORE_CATALYZING_GEN);
             if (OVR_ORE_LUSH_GEN_D != null)
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, OVR_ORE_LUSH_GEN_D);
+            if (OVR_ORE_TOPAZ_GEN != null)
+                generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, OVR_ORE_TOPAZ_GEN);
         }
         if (event.getCategory().equals(Biome.BiomeCategory.BEACH)) {
             if (OVR_ORE_AQUAMARINE_GEN != null)

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_fools_gold"
+  },
+  "result": "gemcraft:gem_fools_gold",
+  "count": 1
+}

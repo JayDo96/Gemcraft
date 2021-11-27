@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "values": [
+      "forge:gems/sapphire",
+      "forge:gems/fossil",
+      "forge:gems/amethyst",
+      "forge:gems/ruby",
+      "forge:gems/aquamarine",
+      "forge:gems/topaz",
+      "forge:gems/torquoise",
+      "forge:gems/jade",
+      "forge:gems/cinnabar",
+      "forge:gems/sperrylite",
+      "forge:gems/ender"
+    ]
+  }

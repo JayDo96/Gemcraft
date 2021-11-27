@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_smoky_quartz"
+  },
+  "result": "gemcraft:gem_smoky_quartz",
+  "count": 1
+}

@@ -173,6 +173,7 @@ public class Registration {
 	public static final RegistryObject<Item> GEM_PROUSTITE = ITEMS.register("gem_proustite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 	public static final RegistryObject<Item> GEM_MALACHITE = ITEMS.register("gem_malachite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 	public static final RegistryObject<Item> GEM_MAGNETITE = ITEMS.register("gem_magnetite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> GEM_CASSITERITE = ITEMS.register("gem_cassiterite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 
 	public static final RegistryObject<Item> GEM_SAPPHIRE = ITEMS.register("gem_sapphire",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
 	public static final RegistryObject<Item> GEM_FOSSIL = ITEMS.register("gem_fossil",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
@@ -217,6 +218,7 @@ public class Registration {
 	public static final RegistryObject<Item> ROUGH_PROUSTITE = ITEMS.register("rough_proustite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 	public static final RegistryObject<Item> ROUGH_MALACHITE = ITEMS.register("rough_malachite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 	public static final RegistryObject<Item> ROUGH_MAGNETITE = ITEMS.register("rough_magnetite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> ROUGH_CASSITERITE = ITEMS.register("rough_cassiterite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 
 	public static final RegistryObject<Item> ROUGH_SAPPHIRE = ITEMS.register("rough_sapphire",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
 	public static final RegistryObject<Item> ROUGH_FOSSIL = ITEMS.register("rough_fossil",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
@@ -249,6 +251,8 @@ public class Registration {
 	public static final RegistryObject<Item> ROUGH_DRAGONSTONE= ITEMS.register("rough_dragonstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
 
 	//Materials
+	public static final RegistryObject<Item> DUST_GEM = ITEMS.register("dust_gem",() -> new MaterialItem(new Item.Properties()));
+	
 	public static final RegistryObject<Item> INGOT_BRONZE = ITEMS.register("ingot_bronze",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> DUST_BRONZE = ITEMS.register("dust_bronze",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> NUGGET_BRONZE = ITEMS.register("nugget_bronze",() -> new MaterialItem(new Item.Properties()));

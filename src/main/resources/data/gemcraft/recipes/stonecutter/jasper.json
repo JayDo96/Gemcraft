@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_jasper"
+  },
+  "result": "gemcraft:gem_jasper",
+  "count": 1
+}

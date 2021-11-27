@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DED",
+    "EDE",
+    "DED"
+  ],
+  "key": {
+    "D": {
+      "item": "gemcraft:dust_gem",
+      "tag": "forge:dusts/gem"
+    },
+    "E": {
+      "item": "minecraft:essence_null",
+      "tag": "forge:essence/void"
+    }
+  },
+  "result": {
+    "item": "gemcraft:sliver_null",
+    "count": 1
+  }
+}

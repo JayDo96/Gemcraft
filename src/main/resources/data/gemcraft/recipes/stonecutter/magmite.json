@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_magmite"
+  },
+  "result": "gemcraft:gem_magmite",
+  "count": 1
+}

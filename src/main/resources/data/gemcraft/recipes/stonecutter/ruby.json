@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_ruby"
+  },
+  "result": "gemcraft:gem_ruby",
+  "count": 1
+}

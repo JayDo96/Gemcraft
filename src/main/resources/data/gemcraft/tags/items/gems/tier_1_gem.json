@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+      "forge:gems/lapis",
+      "forge:gems/jet",
+      "forge:gems/bone",
+      "forge:gems/amber",
+      "forge:gems/cassiterite",
+      "forge:gems/jasper",
+      "forge:gems/sylvanite",
+      "forge:gems/proustite",
+      "forge:gems/malachite",
+      "forge:gems/magnetite"
+    ]
+  }

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:bone_block",
+    "tag": "forge:block/bone"
+  },
+  "result": "gemcraft:gem_bone",
+  "count": 1
+}

@@ -25,7 +25,13 @@
       "gemcraft:ore_onyx",
       "gemcraft:ore_opal",
       "gemcraft:ore_garnet",
-      "gemcraft:ore_beryl"
+      "gemcraft:ore_beryl",
+      "gemcraft:storage_bronze",
+      "gemcraft:storage_silver",
+      "gemcraft:storage_elementum",
+      "gemcraft:storage_platinum",
+      "gemcraft:storage_iridium",
+      "gemcraft:storage_tin"
     ]
   }
   

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DED",
+    "EDE",
+    "DED"
+  ],
+  "key": {
+    "D": {
+      "item": "gemcraft:dust_gem",
+      "tag": "forge:dusts/gem"
+    },
+    "E": {
+      "item": "minecraft:essence_torrid",
+      "tag": "forge:essence/fire"
+    }
+  },
+  "result": {
+    "item": "gemcraft:sliver_torrid",
+    "count": 1
+  }
+}
