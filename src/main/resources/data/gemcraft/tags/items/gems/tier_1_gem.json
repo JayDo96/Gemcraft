@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:gem_lapis",
+      "gemcraft:gem_jet",
+      "gemcraft:gem_bone",
+      "gemcraft:gem_amber",
+      "gemcraft:gem_cassiterite",
+      "gemcraft:gem_jasper",
+      "gemcraft:gem_sylvanite",
+      "gemcraft:gem_proustite",
+      "gemcraft:gem_malachite",
+      "gemcraft:gem_magnetite",
+    ]
+  }
