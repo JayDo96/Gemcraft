@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:gem_onyx",
+      "gemcraft:gem_glowstone",
+      "gemcraft:gem_opal",
+      "gemcraft:gem_garnet",
+      "gemcraft:gem_chrysocolla",
+      "gemcraft:gem_beryl",
+      "gemcraft:gem_diamond",
+      "gemcraft:gem_fools_gold",
+      "gemcraft:gem_smoky_quartz",
+      "gemcraft:gem_bowieite",
+      "gemcraft:gem_emerald",  
+      "gemcraft:gem_obsidian",
+      "gemcraft:gem_chromite",
+      "gemcraft:gem_wither"
+    ]
+  }
