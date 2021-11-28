@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_moonstone",
-      "gemcraft:rough_moonstone"
+      "gemcraft:gem_moonstone"
     ]
   }
