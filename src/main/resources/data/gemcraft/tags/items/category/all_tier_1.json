@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:gems/tier_1_gems",
+      "gemcraft:roughs/tier_1_gems"
+    ]
+  }
