@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+      "forge:roughs/lapis",
+      "forge:roughs/jet",
+      "forge:roughs/bone",
+      "forge:roughs/amber",
+      "forge:roughs/cassiterite",
+      "forge:roughs/jasper",
+      "forge:roughs/sylvanite",
+      "forge:roughs/proustite",
+      "forge:roughs/malachite",
+      "forge:roughs/magnetite"
+    ]
+  }
