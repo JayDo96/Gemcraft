@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "values": [
+      "forge:roughs/sapphire",
+      "forge:roughs/fossil",
+      "forge:roughs/amethyst",
+      "forge:roughs/ruby",
+      "forge:roughs/aquamarine",
+      "forge:roughs/topaz",
+      "forge:roughs/torquoise",
+      "forge:roughs/jade",
+      "forge:roughs/cinnabar",
+      "forge:roughs/sperrylite",
+      "forge:roughs/ender"
+    ]
+  }
