@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_jet",
-      "gemcraft:rough_jet"
+      "gemcraft:gem_jet"
     ]
   }
