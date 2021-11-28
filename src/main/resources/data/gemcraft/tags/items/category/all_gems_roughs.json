@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:category/all_gems",
+      "gemcraft:category/all_roughs"
+    ]
+  }
