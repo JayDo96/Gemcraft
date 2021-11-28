@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:gems/tier_4_gems",
+      "gemcraft:roughs/tier_4_roughs"
+    ]
+  }
