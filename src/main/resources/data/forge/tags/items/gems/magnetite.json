@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_magnetite",
-      "gemcraft:rough_magnetite"
+      "gemcraft:gem_magnetite"
     ]
   }
