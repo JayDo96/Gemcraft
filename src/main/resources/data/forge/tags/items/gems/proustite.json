@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_proustite",
-      "gemcraft:rough_proustite"
+      "gemcraft:gem_proustite"
     ]
   }
