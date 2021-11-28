@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_cinnabar",
-      "gemcraft:rough_cinnabar"
+      "gemcraft:gem_cinnabar"
     ]
   }
