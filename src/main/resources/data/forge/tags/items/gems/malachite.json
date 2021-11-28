@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_malachite",
-      "gemcraft:rough_malachite"
+      "gemcraft:gem_malachite"
     ]
   }
