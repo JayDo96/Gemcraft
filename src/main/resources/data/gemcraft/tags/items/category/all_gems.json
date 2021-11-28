@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:gems/tier_1_gems",
+      "gemcraft:gems/tier_2_gems",
+      "gemcraft:gems/tier_3_gems",
+      "gemcraft:gems/tier_4_gems"
+    ]
+  }
