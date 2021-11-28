@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_ender",
-      "gemcraft:rough_ender"
+      "gemcraft:gem_ender"
     ]
   }
