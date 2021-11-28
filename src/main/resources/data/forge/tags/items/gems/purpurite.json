@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_purpurite",
-      "gemcraft:rough_purpurite"
+      "gemcraft:gem_purpurite"
     ]
   }
