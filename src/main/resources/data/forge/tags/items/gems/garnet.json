@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_garnet",
-      "gemcraft:rough_garnet"
+      "gemcraft:gem_garnet"
     ]
   }
