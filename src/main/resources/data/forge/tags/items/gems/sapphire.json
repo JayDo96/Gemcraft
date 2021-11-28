@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_sapphire",
-      "gemcraft:rough_sapphire"
+      "gemcraft:gem_sapphire"
     ]
   }
