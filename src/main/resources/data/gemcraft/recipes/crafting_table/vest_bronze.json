@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "l l ",
+    "lbl",
+    "lll"
+  ],
+  "key": {
+    "b": {
+      "tag": "forge:/blocks/bronze"
+    },
+    "l": {
+      "item": "gemcraft:cloth_flax"
+    }
+  },
+  "result": {
+    "item": "gemcraft:vest_bronze",
+    "count": 1
+  }
+}
