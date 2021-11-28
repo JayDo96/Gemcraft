@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_bowieite",
-      "gemcraft:rough_bowieite"
+      "gemcraft:gem_bowieite"
     ]
   }
