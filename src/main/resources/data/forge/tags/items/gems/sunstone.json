@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_sunstone",
-      "gemcraft:rough_sunstone"
+      "gemcraft:gem_sunstone"
     ]
   }
