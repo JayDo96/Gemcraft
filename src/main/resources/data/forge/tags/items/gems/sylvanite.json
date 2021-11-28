@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_sylvanite",
-      "gemcraft:rough_sylvanite"
+      "gemcraft:gem_sylvanite"
     ]
   }
