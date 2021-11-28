@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_ruby",
-      "gemcraft:rough_ruby"
+      "gemcraft:gem_ruby"
     ]
   }
