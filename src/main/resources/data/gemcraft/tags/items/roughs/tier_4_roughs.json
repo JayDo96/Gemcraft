@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+      "forge:roughs/magmite",
+      "forge:roughs/moonstone",
+      "forge:roughs/sunstone",
+      "forge:roughs/purpurite",
+      "forge:roughs/corundum",
+      "forge:roughs/ether",
+      "forge:roughs/dragonstone"
+    ]
+  }
