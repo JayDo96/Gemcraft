@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "values": [
+      "forge:roughs/onyx",
+      "forge:roughs/glowstone",
+      "forge:roughs/opal",
+      "forge:roughs/garnet",
+      "forge:roughs/chrysocolla",
+      "forge:roughs/beryl",
+      "forge:roughs/diamond",
+      "forge:roughs/fools_gold",
+      "forge:roughs/smoky_quartz",
+      "forge:roughs/bowieite",
+      "forge:roughs/emerald",  
+      "forge:roughs/obsidian",
+      "forge:roughs/chromite",
+      "forge:roughs/wither"
+    ]
+  }
