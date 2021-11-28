@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_wither",
-      "gemcraft:rough_wither"
+      "gemcraft:gem_wither"
     ]
   }
