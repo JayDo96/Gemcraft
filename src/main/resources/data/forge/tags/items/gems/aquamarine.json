@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_aquamarine",
-      "gemcraft:rough_aquamarine"
+      "gemcraft:gem_aquamarine"
     ]
   }
