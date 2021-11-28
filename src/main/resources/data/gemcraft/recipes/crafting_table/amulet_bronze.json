@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c c",
+    "iii",
+    " i "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/bronze"
+    },
+    "c": {
+      "item": "gemcraft:cloth_flax"
+    }
+  },
+  "result": {
+    "item": "gemcraft:amulet_bronze",
+    "count": 1
+  }
+}
