@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_topaz",
-      "gemcraft:rough_topaz"
+      "gemcraft:gem_topaz"
     ]
   }
