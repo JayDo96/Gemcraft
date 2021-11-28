@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_sperrylite",
-      "gemcraft:rough_sperrylite"
+      "gemcraft:gem_sperrylite"
     ]
   }
