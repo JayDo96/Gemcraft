@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    "lbl",
+    " i "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/bronze"
+    },
+    "b": {
+      "tag": "forge:/blocks/bronze"
+    },
+    "l": {
+      "item": "gemcraft:cloth_flax"
+    }
+  },
+  "result": {
+    "item": "gemcraft:belt_bronze",
+    "count": 1
+  }
+}
