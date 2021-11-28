@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "minecraft:netherstar",
       "gemcraft:gem_netherstar"
     ]
   }
