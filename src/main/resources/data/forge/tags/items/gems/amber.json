@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:gem_amber",
-      "gemcraft:rough_amber"
+      "gemcraft:gem_amber"
     ]
   }
