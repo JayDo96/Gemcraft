@@ -1,19 +1,19 @@
 {
     "replace": false,
     "values": [
-      "forge:gems/onyx",
-      "forge:gems/glowstone",
-      "forge:gems/opal",
-      "forge:gems/garnet",
-      "forge:gems/chrysocolla",
-      "forge:gems/beryl",
-      "forge:gems/diamond",
-      "forge:gems/fools_gold",
-      "forge:gems/smoky_quartz",
-      "forge:gems/bowieite",
-      "forge:gems/emerald",  
-      "forge:gems/obsidian",
-      "forge:gems/chromite",
-      "forge:gems/wither"
+      "forge:items/gems/onyx",
+      "forge:items/gems/glowstone",
+      "forge:items/gems/opal",
+      "forge:items/gems/garnet",
+      "forge:items/gems/chrysocolla",
+      "forge:items/gems/beryl",
+      "forge:items/gems/diamond",
+      "forge:items/gems/fools_gold",
+      "forge:items/gems/smoky_quartz",
+      "forge:items/gems/bowieite",
+      "forge:items/gems/emerald",  
+      "forge:items/gems/obsidian",
+      "forge:items/gems/chromite",
+      "forge:items/gems/wither"
     ]
   }

@@ -6,7 +6,7 @@
         {
           "type": "minecraft:item",
           "weight": 19,
-          "name": "minecraft:raw_platinum",
+          "name": "gemcraft:raw_tin",
           "functions": [
             {
               "function": "minecraft:apply_bonus",
@@ -21,7 +21,7 @@
         {
           "type": "minecraft:item",
           "weight": 1,
-          "name": "gemcraft:rough_sperrylite",
+          "name": "gemcraft:rough_cassiterite",
           "functions": [
             {
               "function": "minecraft:apply_bonus",

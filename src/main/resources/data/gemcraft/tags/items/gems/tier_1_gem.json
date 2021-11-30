@@ -1,15 +1,15 @@
 {
     "replace": false,
     "values": [
-      "forge:gems/lapis",
-      "forge:gems/jet",
-      "forge:gems/bone",
-      "forge:gems/amber",
-      "forge:gems/cassiterite",
-      "forge:gems/jasper",
-      "forge:gems/sylvanite",
-      "forge:gems/proustite",
-      "forge:gems/malachite",
-      "forge:gems/magnetite"
+      "forge:items/gems/lapis",
+      "forge:items/gems/jet",
+      "forge:items/gems/bone",
+      "forge:items/gems/amber",
+      "forge:items/gems/cassiterite",
+      "forge:items/gems/jasper",
+      "forge:items/gems/sylvanite",
+      "forge:items/gems/proustite",
+      "forge:items/gems/malachite",
+      "forge:items/gems/magnetite"
     ]
   }

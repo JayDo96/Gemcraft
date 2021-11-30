@@ -252,7 +252,27 @@ public class Registration {
 
 	//Materials
 	public static final RegistryObject<Item> DUST_GEM = ITEMS.register("dust_gem",() -> new MaterialItem(new Item.Properties()));
-	
+
+	public static final RegistryObject<Item> CLOTH_FLAX = ITEMS.register("cloth_flax",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> WEAVE_FLAX = ITEMS.register("weave_flax",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> FIBER_FLAX = ITEMS.register("fiber_flax",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> CLOTH_GLEAM = ITEMS.register("cloth_gleam",() -> new MaterialItem(new Item.Properties().rarity(Rarity.COMMON)));
+
+	public static final RegistryObject<Item> CLOTH_SHADE = ITEMS.register("cloth_shade",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> WEAVE_SHADE = ITEMS.register("weave_shade",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> FIBER_SHADE = ITEMS.register("fiber_shade",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> CLOTH_ARDU = ITEMS.register("cloth_ardu",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+
+	public static final RegistryObject<Item> CLOTH_ROCK = ITEMS.register("cloth_rock",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> WEAVE_ROCK = ITEMS.register("weave_rock",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> FIBER_ROCK = ITEMS.register("fiber_rock",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> CLOTH_FLUX = ITEMS.register("cloth_flux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
+
+	public static final RegistryObject<Item> CLOTH_DRAGON = ITEMS.register("cloth_dragon",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> WEAVE_DRAGON = ITEMS.register("weave_dragon",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> FIBER_DRAGON = ITEMS.register("fiber_dragon",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> CLOTH_ABYSS = ITEMS.register("cloth_abyss",() -> new MaterialItem(new Item.Properties().rarity(Rarity.EPIC)));
+
 	public static final RegistryObject<Item> INGOT_BRONZE = ITEMS.register("ingot_bronze",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> DUST_BRONZE = ITEMS.register("dust_bronze",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> NUGGET_BRONZE = ITEMS.register("nugget_bronze",() -> new MaterialItem(new Item.Properties()));

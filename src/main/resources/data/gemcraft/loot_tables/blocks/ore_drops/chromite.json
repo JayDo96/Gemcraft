@@ -6,7 +6,7 @@
         {
           "type": "minecraft:item",
           "weight": 19,
-          "name": "minecraft:raw_silver",
+          "name": "minecraft:diamond",
           "functions": [
             {
               "function": "minecraft:apply_bonus",
@@ -21,7 +21,7 @@
         {
           "type": "minecraft:item",
           "weight": 1,
-          "name": "gemcraft:rough_proustite",
+          "name": "gemcraft:rough_chromite",
           "functions": [
             {
               "function": "minecraft:apply_bonus",

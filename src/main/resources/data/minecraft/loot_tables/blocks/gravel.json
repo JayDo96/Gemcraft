@@ -31,9 +31,8 @@
               "type": "minecraft:alternatives",
               "children": [
                 {
-                  "type": "minecraft:item",
-                  "weight": 19,
-                  "name": "minecraft:flint",
+                  "type": "minecraft:loot_table",
+                  "name": "gemcraft:blocks/ore_drops/jasper",
                   "conditions": [
                     {
                       "condition": "minecraft:table_bonus",
@@ -55,22 +54,6 @@
               "conditions": [
                 {
                   "condition": "minecraft:survives_explosion"
-                }
-              ]
-            },
-            {
-              "type": "minecraft:item",
-              "weight": 1,
-              "name": "gemcraft:rough_jasper",
-              "functions": [
-                {
-                  "function": "minecraft:set_count",
-                  "count": 1
-                },
-                {
-                  "function": "minecraft:apply_bonus",
-                  "enchantment": "minecraft:fortune",
-                  "formula": "minecraft:ore_drops"
                 }
               ]
             }

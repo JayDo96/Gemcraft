@@ -7,10 +7,10 @@
   ],
   "key": {
     "D": {
-      "tag": "forge:dusts/gem"
+      "tag": "forge:items/dusts/gem"
     },
     "E": {
-      "tag": "forge:essence/color"
+      "tag": "forge:items/essence/color"
     }
   },
   "result": {

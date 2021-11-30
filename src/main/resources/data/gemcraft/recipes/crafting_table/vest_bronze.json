@@ -7,7 +7,7 @@
   ],
   "key": {
     "b": {
-      "tag": "forge:/blocks/bronze"
+      "tag": "forge:items/storage_blocks/bronze"
     },
     "l": {
       "item": "gemcraft:cloth_flax"

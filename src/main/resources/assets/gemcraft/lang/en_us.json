@@ -23,7 +23,6 @@
     "item.gemcraft.gem_aquamarine": "Cut Aquamarine",
     "item.gemcraft.gem_opal": "Cut Opal",
     "item.gemcraft.gem_obsidian": "Cut Obsidian",
-    "item.gemcraft.gem_ender": "Cut Ender",
     "item.gemcraft.gem_beryl": "Cut Beryl",
     "item.gemcraft.gem_garnet": "Cut Garnet",
     "item.gemcraft.gem_onyx": "Cut Onyx",
@@ -220,7 +219,7 @@
     "item.gemcraft.dust_iridium": "Iridium Dust",
     
     "item.gemcraft.ingot_bronze": "Bronze Ingot",
-    "item.gemcraft.ingot_elementum": "Elementum Ingot",,
+    "item.gemcraft.ingot_elementum": "Elementum Ingot",
     "item.gemcraft.ingot_tin": "Tin Ingot",
     "item.gemcraft.ingot_silver": "Silver Ingot",
     "item.gemcraft.ingot_platinum": "Platinum Ingot",
@@ -289,6 +288,6 @@
     "item.gemcraft.essence_null": "Null Essence",
     "item.gemcraft.sliver_null": "Null Sliver",
     "item.gemcraft.shard_null": "Null Shard",
-    "item.gemcraft.core_null": "Null Core", 
+    "item.gemcraft.core_null": "Null Core"
 
   }

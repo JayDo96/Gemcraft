@@ -1,16 +1,16 @@
 {
     "replace": false,
     "values": [
-      "forge:gems/sapphire",
-      "forge:gems/fossil",
-      "forge:gems/amethyst",
-      "forge:gems/ruby",
-      "forge:gems/aquamarine",
-      "forge:gems/topaz",
-      "forge:gems/torquoise",
-      "forge:gems/jade",
-      "forge:gems/cinnabar",
-      "forge:gems/sperrylite",
-      "forge:gems/ender"
+      "forge:items/gems/sapphire",
+      "forge:items/gems/fossil",
+      "forge:items/gems/amethyst",
+      "forge:items/gems/ruby",
+      "forge:items/gems/aquamarine",
+      "forge:items/gems/topaz",
+      "forge:items/gems/torquoise",
+      "forge:items/gems/jade",
+      "forge:items/gems/cinnabar",
+      "forge:items/gems/sperrylite",
+      "forge:items/gems/ender"
     ]
   }
