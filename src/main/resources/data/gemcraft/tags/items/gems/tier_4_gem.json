@@ -1,12 +1,12 @@
 {
     "replace": false,
     "values": [
-      "forge:items/gems/magmite",
-      "forge:items/gems/moonstone",
-      "forge:items/gems/sunstone",
-      "forge:items/gems/purpurite",
-      "forge:items/gems/corundum",
-      "forge:items/gems/ether",
-      "forge:items/gems/dragonstone"
+      "forge:gems/magmite",
+      "forge:gems/moonstone",
+      "forge:gems/sunstone",
+      "forge:gems/purpurite",
+      "forge:gems/corundum",
+      "forge:gems/ether",
+      "forge:gems/dragonstone"
     ]
   }
