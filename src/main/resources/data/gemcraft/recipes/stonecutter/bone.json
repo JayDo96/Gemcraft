@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "tag": "forge:blocks/bone"
+    "tag": "forge:storage_blocks/bone"
   },
   "result": "gemcraft:gem_bone",
   "count": 1
