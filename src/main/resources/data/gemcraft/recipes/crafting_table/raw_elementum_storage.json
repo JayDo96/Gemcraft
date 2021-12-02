@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "gemcraft:raw_elementum"
+    }
+  },
+  "result": {
+    "item": "gemcraft:storage_raw_elementum",
+    "count": 1
+  }
+}
