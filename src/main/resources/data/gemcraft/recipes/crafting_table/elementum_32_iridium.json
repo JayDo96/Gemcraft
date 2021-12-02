@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "gemcraft:essence/tier_3_essence"
+    },
+    {
+      "tag": "gemcraft:essence/tier_3_essence"
+    },
+    {
+      "tag": "forge:ingots/iridium"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_elementum",
+    "count": 32
+  }
+}
