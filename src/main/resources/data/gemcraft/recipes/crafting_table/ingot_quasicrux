@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "gemcraft:nugget_quasicrux"
+    }
+  },
+  "result": {
+    "item": "gemcraft:ingot_quasicrux",
+    "count": 1
+  }
+}
