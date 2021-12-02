@@ -4,5 +4,6 @@
     "item": "gemcraft:raw_platinum"
   },
   "result": "gemcraft:ingot_platinum",
+  "experience": 0.9,
   "cookingtime": 125
 }
