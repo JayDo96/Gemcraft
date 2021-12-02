@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/elementum"
+    },
+    {
+      "tag": "forge:ingots/elementum"
+    },
+    {
+      "tag": "forge:ingots/elementum"
+    },
+    {
+      "tag": "forge:ingots/elementum"
+    },
+    {
+      "tag": "gemcraft:sliver_entropic"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:nugget_anticrux",
+    "count": 1
+  }
+}
