@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "gemcraft:fiber_flax"
+    }
+  },
+  "result": {
+    "item": "gemcraft:weave_flax",
+    "count": 1
+  }
+}
