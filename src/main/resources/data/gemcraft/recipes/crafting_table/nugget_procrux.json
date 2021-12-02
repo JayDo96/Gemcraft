@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemcraft:ingot_procrux"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:nugget_procrux",
+    "count": 9
+  }
+}
