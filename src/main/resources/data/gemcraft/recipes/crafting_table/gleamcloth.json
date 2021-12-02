@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "gemcraft:essence_radiant"
+    },
+    "C": {
+      "item": "gemcraft:cloth_flax"
+    }
+  },
+  "result": {
+    "item": "gemcraft:cloth_gleam",
+    "count": 1
+  }
+}
