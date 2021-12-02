@@ -5,9 +5,9 @@ import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 
 
-public class GemcraftCreativeTabBaubles extends CreativeModeTab{
+public class GemcraftCreativeTabBauble extends CreativeModeTab{
 
-	public GemcraftCreativeTabBaubles(String label) {
+	public GemcraftCreativeTabBauble(String label) {
 		super(label);
 		   }
 

@@ -7,8 +7,8 @@ import net.minecraft.world.item.Item;
 public class BaubleItem extends Item
 {
 
-	public MaterialItem(Properties properties) {
-		super(properties.tab(Main.GemcraftTabBauble));
+	public BaubleItem(Properties properties) {
+		super(properties.tab(Main.GemcraftTabBaubles));
 	}
 
 }

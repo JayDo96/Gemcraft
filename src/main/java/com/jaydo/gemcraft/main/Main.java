@@ -1,6 +1,7 @@
 package com.jaydo.gemcraft.main;
 
 
+import com.jaydo.gemcraft.gui.GemcraftCreativeTabBauble;
 import com.jaydo.gemcraft.gui.GemcraftCreativeTabMaterials;
 import com.jaydo.gemcraft.world.WorldGen;
 import net.minecraft.resources.ResourceLocation;
@@ -36,7 +37,7 @@ public class Main
 
     public static final GemcraftCreativeTab GemcraftTab = new GemcraftCreativeTab("GemcraftTab");
     public static final GemcraftCreativeTabMaterials GemcraftTabMaterial = new GemcraftCreativeTabMaterials("GemcraftTabMaterial");
-    public static final GemcraftCreativeTabBaubles GemcraftTabBaubles = new GemcraftCreativeTabBaubles("GemcraftTabBaubles");
+    public static final GemcraftCreativeTabBauble GemcraftTabBaubles = new GemcraftCreativeTabBauble("GemcraftTabBaubles");
 	
     public static Tag<Block> OVR_STONE;
     public static Tag<Block> NETHER_STONE;

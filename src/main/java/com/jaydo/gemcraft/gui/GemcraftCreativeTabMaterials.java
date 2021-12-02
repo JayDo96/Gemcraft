@@ -13,6 +13,6 @@ public class GemcraftCreativeTabMaterials extends CreativeModeTab{
 
 	@Override
 	public ItemStack makeIcon() {
-		return new ItemStack(Registration.INGOT_ELEMENTUM.get());
+		return new ItemStack(Registration.INGOT_BRONZE.get());
 	}
 }
