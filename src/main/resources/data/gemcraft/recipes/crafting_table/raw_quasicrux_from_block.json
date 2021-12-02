@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemcraft:storage_raw_quasicrux"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:raw_quasicrux",
+    "count": 9
+  }
+}
