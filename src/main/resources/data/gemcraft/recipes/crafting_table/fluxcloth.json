@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "XXX",
+    " X ",
     "XCX",
-    "XXX"
+    " X "
   ],
   "key": {
     "X": {
@@ -15,6 +15,6 @@
   },
   "result": {
     "item": "gemcraft:cloth_flux",
-    "count": 2
+    "count": 1
   }
 }
