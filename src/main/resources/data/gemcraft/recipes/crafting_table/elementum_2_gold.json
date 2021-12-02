@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "gemcraft:essence/tier_2_essence"
+    },
+    {
+      "tag": "gemcraft:essence/tier_2_essence"
+    },
+    {
+      "tag": "gemcraft:essence/tier_2_essence"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_elementum",
+    "count": 2
+  }
+}
