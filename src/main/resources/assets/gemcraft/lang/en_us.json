@@ -1,6 +1,7 @@
 {
     "itemGroup.GemcraftTab": "Gemcraft",
     "itemGroup.GemcraftTabMaterial": "Gemcraft Materials",
+    "itemGroup.GemcraftTabMaterial": "Gemcraft Baubles",
 
     "item.gemcraft.gem_amethyst": "Cut Amethyst",
     "item.gemcraft.gem_sylvanite": "Cut Sylvanite",
