@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemcraft:storage_raw_iridium"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:raw_iridium",
+    "count": 9
+  }
+}
