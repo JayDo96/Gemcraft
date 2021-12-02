@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemcraft:storage_raw_elementum"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:raw_elementum",
+    "count": 9
+  }
+}
