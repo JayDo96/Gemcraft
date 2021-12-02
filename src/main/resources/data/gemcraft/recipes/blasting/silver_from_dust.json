@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:dust_silver"
+  },
+  "result": "gemcraft:ingot_silver",
+  "cookingtime": 100
+}
