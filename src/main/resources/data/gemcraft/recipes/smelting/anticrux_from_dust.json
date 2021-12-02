@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gemcraft:dust_anticrux"
+  },
+  "result": "gemcraft:ingot_anticrux",
+  "cookingtime": 200
+}
