@@ -4,5 +4,6 @@
     "item": "gemcraft:raw_iridium"
   },
   "result": "gemcraft:ingot_iridium",
+  "experience": 1.2,
   "cookingtime": 150
 }
