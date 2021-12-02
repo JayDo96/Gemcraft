@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/elementum"
+    },
+    {
+      "tag": "forge:storage_blocks/elementum"
+    },
+    {
+      "tag": "forge:storage_blocks/elementum"
+    },
+    {
+      "tag": "forge:storage_blocks/elementum"
+    },
+    {
+      "tag": "gemcraft:core_life"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingots_quasicrux",
+    "count": 1
+  }
+}
