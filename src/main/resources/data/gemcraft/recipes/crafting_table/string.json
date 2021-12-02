@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "copper_ingot",
+  "pattern": [
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "forge:fiber"
+    }
+  },
+  "result": {
+    "item": "minecraft:string",
+    "count": 1
+  }
+}
