@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gemcraft:raw_quasicrux"
+  },
+  "result": "gemcraft:ingot_quasicrux",
+   "experience": 2.0,
+  "cookingtime": 300
+}
