@@ -279,6 +279,12 @@ public class Registration {
 	public static final RegistryObject<StorageBlock> STORAGE_BRONZE = BLOCKS.register("storage_bronze",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_BRONZE = ITEMS.register("storage_bronze",() -> new BlockItem(STORAGE_BRONZE.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 
+	public static final RegistryObject<Item> INGOT_OMNICRUX = ITEMS.register("ingot_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> DUST_OMNICRUX = ITEMS.register("dust_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> NUGGET_OMNICRUX = ITEMS.register("nugget_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<StorageBlock> STORAGE_OMNICRUX = BLOCKS.register("storage_omnicrux",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_OMNICRUX = ITEMS.register("storage_omnicrux",() -> new BlockItem(STORAGE_OMNICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.RARE)));
+
 	public static final RegistryObject<Item> INGOT_ANTICRUX = ITEMS.register("ingot_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
 	public static final RegistryObject<Item> DUST_ANTICRUX = ITEMS.register("dust_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
 	public static final RegistryObject<Item> NUGGET_ANTICRUX = ITEMS.register("nugget_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
