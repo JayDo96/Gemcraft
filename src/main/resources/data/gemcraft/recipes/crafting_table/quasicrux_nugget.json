@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/elementum"
+    },
+    {
+      "tag": "forge:ingots/elementum"
+    },
+    {
+      "tag": "forge:ingots/elementum"
+    },
+    {
+      "tag": "forge:ingots/elementum"
+    },
+    {
+      "tag": "gemcraft:sliver_null"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:nugget_quasicrux",
+    "count": 1
+  }
+}
