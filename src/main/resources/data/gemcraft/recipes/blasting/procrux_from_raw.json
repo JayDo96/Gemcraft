@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gemcraft:raw_procrux"
+  },
+  "result": "gemcraft:ingot_procrux",
+   "experience": 2.0,
+  "cookingtime": 300
+}
