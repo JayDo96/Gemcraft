@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:dust_tin"
+  },
+  "result": "gemcraft:ingot_tin",
+  "cookingtime": 75
+}
