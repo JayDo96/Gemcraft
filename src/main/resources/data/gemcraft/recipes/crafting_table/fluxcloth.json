@@ -7,7 +7,7 @@
   ],
   "key": {
     "X": {
-      "item": "gemcraft:essence_torrid"
+      "item": "gemcraft:shard_torrid"
     },
     "C": {
       "item": "gemcraft:cloth_rock"
@@ -15,6 +15,6 @@
   },
   "result": {
     "item": "gemcraft:cloth_flux",
-    "count": 1
+    "count": 2
   }
 }
