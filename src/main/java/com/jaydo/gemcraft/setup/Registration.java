@@ -285,6 +285,8 @@ public class Registration {
 	public static final RegistryObject<Item> NUGGET_OMNICRUX = ITEMS.register("nugget_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.EPIC)));
 	public static final RegistryObject<StorageBlock> STORAGE_OMNICRUX = BLOCKS.register("storage_omnicrux",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_OMNICRUX = ITEMS.register("storage_omnicrux",() -> new BlockItem(STORAGE_OMNICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.EPIC)));
+	public static final RegistryObject<StorageBlock> STORAGE_RAW_OMNICRUX = BLOCKS.register("storage_raw_omnicrux",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_RAW_OMNICRUX = ITEMS.register("storage_raw_omnicrux",() -> new BlockItem(STORAGE_RAW_OMNICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.EPIC)));
 
 	public static final RegistryObject<Item> INGOT_ANTICRUX = ITEMS.register("ingot_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
 	public static final RegistryObject<Item> DUST_ANTICRUX = ITEMS.register("dust_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
@@ -292,6 +294,8 @@ public class Registration {
 	public static final RegistryObject<Item> NUGGET_ANTICRUX = ITEMS.register("nugget_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
 	public static final RegistryObject<StorageBlock> STORAGE_ANTICRUX = BLOCKS.register("storage_anticrux",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_ANTICRUX = ITEMS.register("storage_anticrux",() -> new BlockItem(STORAGE_ANTICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<StorageBlock> STORAGE_RAW_ANTICRUX = BLOCKS.register("storage_raw_anticrux",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_RAW_ANTICRUX = ITEMS.register("storage_raw_anticrux",() -> new BlockItem(STORAGE_RAW_ANTICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.UNCOMMON)));
 
 	public static final RegistryObject<Item> INGOT_PROCRUX = ITEMS.register("ingot_procrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
 	public static final RegistryObject<Item> DUST_PROCRUX = ITEMS.register("dust_procrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
@@ -299,6 +303,8 @@ public class Registration {
 	public static final RegistryObject<Item> NUGGET_PROCRUX = ITEMS.register("nugget_procrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
 	public static final RegistryObject<StorageBlock> STORAGE_PROCRUX = BLOCKS.register("storage_procrux",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_PROCRUX = ITEMS.register("storage_procrux",() -> new BlockItem(STORAGE_PROCRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<StorageBlock> STORAGE_RAW_PROCRUX = BLOCKS.register("storage_raw_procrux",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_RAW_PROCRUX = ITEMS.register("storage_raw_procrux",() -> new BlockItem(STORAGE_RAW_PROCRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.UNCOMMON)));
 
 	public static final RegistryObject<Item> INGOT_QUASICRUX = ITEMS.register("ingot_quasicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
 	public static final RegistryObject<Item> DUST_QUASICRUX = ITEMS.register("dust_quasicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
@@ -306,7 +312,9 @@ public class Registration {
 	public static final RegistryObject<Item> NUGGET_QUASICRUX = ITEMS.register("nugget_quasicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
 	public static final RegistryObject<StorageBlock> STORAGE_QUASICRUX = BLOCKS.register("storage_quasicrux",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_QUASICRUX = ITEMS.register("storage_quasicrux",() -> new BlockItem(STORAGE_QUASICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.RARE)));
-
+	public static final RegistryObject<StorageBlock> STORAGE_RAW_QUASICRUX = BLOCKS.register("storage_raw_quasicrux",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_RAW_QUASICRUX = ITEMS.register("storage_raw_quasicrux",() -> new BlockItem(STORAGE_RAW_QUASICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.RARE)));
+	
 	public static final RegistryObject<Item> NUGGET_COPPER = ITEMS.register("nugget_copper",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> DUST_COPPER = ITEMS.register("dust_copper",() -> new MaterialItem(new Item.Properties()));
 
@@ -316,6 +324,8 @@ public class Registration {
 	public static final RegistryObject<Item> NUGGET_SILVER = ITEMS.register("nugget_silver",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<StorageBlock> STORAGE_SILVER = BLOCKS.register("storage_silver",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_SILVER= ITEMS.register("storage_silver",() -> new BlockItem(STORAGE_SILVER.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	public static final RegistryObject<StorageBlock> STORAGE_RAW_SILVER = BLOCKS.register("storage_raw_silver",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_RAW_SILVER= ITEMS.register("storage_raw_silver",() -> new BlockItem(STORAGE_RAW_SILVER.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 
 	public static final RegistryObject<Item> INGOT_TIN = ITEMS.register("ingot_tin",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> RAW_TIN = ITEMS.register("raw_tin",() -> new MaterialItem(new Item.Properties()));
@@ -323,12 +333,17 @@ public class Registration {
 	public static final RegistryObject<Item> NUGGET_TIN = ITEMS.register("nugget_tin",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<StorageBlock> STORAGE_TIN = BLOCKS.register("storage_tin",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_TIN= ITEMS.register("storage_tin",() -> new BlockItem(STORAGE_TIN.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	public static final RegistryObject<StorageBlock> STORAGE_RAW_TIN = BLOCKS.register("storage_raw_tin",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_RAW_TIN= ITEMS.register("storage_raw_tin",() -> new BlockItem(STORAGE_RAW_TIN.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 
 	public static final RegistryObject<Item> INGOT_ELEMENTUM = ITEMS.register("ingot_elementum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> RAW_ELEMENTUM = ITEMS.register("raw_elementum",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> DUST_ELEMENTUM = ITEMS.register("dust_elementum",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> NUGGET_ELEMENTUM = ITEMS.register("nugget_elementum",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<StorageBlock> STORAGE_ELEMENTUM = BLOCKS.register("storage_elementum",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_ELEMENTUM= ITEMS.register("storage_elementum",() -> new BlockItem(STORAGE_ELEMENTUM.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	public static final RegistryObject<StorageBlock> STORAGE_RAW_ELEMENTUM = BLOCKS.register("storage_raw_elementum",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_RAW_ELEMENTUM= ITEMS.register("storage_raw_elementum",() -> new BlockItem(STORAGE_RAW_ELEMENTUM.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 
 	public static final RegistryObject<Item> INGOT_PLATINUM = ITEMS.register("ingot_platinum",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> RAW_PLATINUM = ITEMS.register("raw_platinum",() -> new MaterialItem(new Item.Properties()));
@@ -336,6 +351,8 @@ public class Registration {
 	public static final RegistryObject<Item> NUGGET_PLATINUM = ITEMS.register("nugget_platinum",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<StorageBlock> STORAGE_PLATINUM = BLOCKS.register("storage_platinum",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_PLATINUM= ITEMS.register("storage_platinum",() -> new BlockItem(STORAGE_PLATINUM.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	public static final RegistryObject<StorageBlock> STORAGE_RAW_PLATINUM = BLOCKS.register("storage_raw_platinum",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_RAW_PLATINUM= ITEMS.register("storage_raw_platinum",() -> new BlockItem(STORAGE_RAW_PLATINUM.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 
 	public static final RegistryObject<Item> INGOT_IRIDIUM = ITEMS.register("ingot_iridium",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> RAW_IRIDIUM = ITEMS.register("raw_iridium",() -> new MaterialItem(new Item.Properties()));
@@ -343,6 +360,8 @@ public class Registration {
 	public static final RegistryObject<Item> NUGGET_IRIDIUM = ITEMS.register("nugget_iridium",() -> new MaterialItem(new Item.Properties().fireResistant().rarity(Rarity.EPIC)));
 	public static final RegistryObject<StorageBlock> STORAGE_IRIDIUM = BLOCKS.register("storage_iridium",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_IRIDIUM= ITEMS.register("storage_iridium",() -> new BlockItem(STORAGE_IRIDIUM.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	public static final RegistryObject<StorageBlock> STORAGE_RAW_IRIDIUM = BLOCKS.register("storage_raw_iridium",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_RAW_IRIDIUM= ITEMS.register("storage_raw_iridium",() -> new BlockItem(STORAGE_RAW_IRIDIUM.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 
 
 	//T1 items
