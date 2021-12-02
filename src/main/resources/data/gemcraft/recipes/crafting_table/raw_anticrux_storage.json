@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "gemcraft:raw_anticrux"
+    }
+  },
+  "result": {
+    "item": "gemcraft:storage_raw_anticrux",
+    "count": 1
+  }
+}
