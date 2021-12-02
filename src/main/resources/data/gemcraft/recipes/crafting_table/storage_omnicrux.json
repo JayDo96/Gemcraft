@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "gemcraft:ingot_omnicrux"
+    }
+  },
+  "result": {
+    "item": "gemcraft:storage_omnicrux"
+  }
+}
