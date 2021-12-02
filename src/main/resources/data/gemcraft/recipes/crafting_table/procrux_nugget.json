@@ -14,7 +14,7 @@
       "tag": "forge:ingots/elementum"
     },
     {
-      "tag": "gemcraft:sliver_catalyzing"
+      "item": "gemcraft:sliver_catalyzing"
     }
   ],
   "result": {
