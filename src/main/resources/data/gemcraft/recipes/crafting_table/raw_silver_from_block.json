@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemcraft:storage_raw_silver"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:raw_silver",
+    "count": 9
+  }
+}
