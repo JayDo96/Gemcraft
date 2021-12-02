@@ -5,11 +5,20 @@
       "tag": "forge:storage_blocks/elementum"
     },
     {
+      "tag": "forge:storage_blocks/elementum"
+    },
+    {
+      "tag": "forge:storage_blocks/elementum"
+    },
+    {
+      "tag": "forge:storage_blocks/elementum"
+    },
+    {
       "tag": "gemcraft:core_catalyzing"
     }
   ],
   "result": {
-    "item": "gemcraft:ingots_procrux",
+    "item": "gemcraft:ingot_procrux",
     "count": 1
   }
 }
