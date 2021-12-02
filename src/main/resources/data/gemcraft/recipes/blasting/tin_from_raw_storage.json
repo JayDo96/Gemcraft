@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:storage_raw_tin"
+  },
+  "result": "gemcraft:storage_tin",
+  "experience": 20,
+  "cookingtime": 1600
+}
