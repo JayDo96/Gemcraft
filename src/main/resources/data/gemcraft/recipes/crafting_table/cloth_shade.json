@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "gemcraft:weave_shade"
+    }
+  },
+  "result": {
+    "item": "gemcraft:cloth_shade",
+    "count": 1
+  }
+}
