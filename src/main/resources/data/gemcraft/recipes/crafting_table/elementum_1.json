@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "gemcraft:essence/tier_1_essence"
+    },
+    {
+      "tag": "gemcraft:essence/tier_1_essence"
+    },
+    {
+      "tag": "gemcraft:essence/tier_1_essence"
+    },
+    {
+      "tag": "gemcraft:essence/tier_1_essence"
+    },
+    {
+      "tag": "gemcraft:essence/tier_1_essence"
+    },
+    {
+      "tag": "gemcraft:essence/tier_1_essence"
+    },
+    {
+      "tag": "gemcraft:essence/tier_1_essence"
+    },
+    {
+      "tag": "gemcraft:essence/tier_1_essence"
+    },
+    {
+      "tag": "forge:ingots/silver"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_elementum",
+    "count": 1
+  }
+}
