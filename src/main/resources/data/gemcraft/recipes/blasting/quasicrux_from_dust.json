@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:dust_quasicrux"
+  },
+  "result": "gemcraft:ingot_quasicrux",
+  "cookingtime": 200
+}
