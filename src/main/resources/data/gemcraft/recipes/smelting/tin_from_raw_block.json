@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gemcraft:storage_raw_tin"
+  },
+  "result": "gemcraft:storage_tin",
+  "experience": 7,
+  "cookingtime": 1200
+}
