@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "copper_ingot",
+  "pattern": [
+    "IWI",
+    "ABC",
+    "DIN"
+  ],
+  "key": {
+    "I": {
+      "item": "gemcraft:storage_elementum"
+    },
+    "W": {
+      "item": "gemcraft:core_null"
+    },
+    "A": {
+      "item": "gemcraft:dust_procrux"
+    },
+    "C": {
+      "item": "gemcraft:dust_anticrux"
+    },
+    "B": {
+      "item": "gemcraft:dust_quasicrux"
+    },
+    "D": {
+      "item": "gemcraft:core_entropic"
+    },
+    "N": {
+      "item": "gemcraft:core_catalyzing"
+    }
+  },
+  "result": {
+    "item": "gemcraft:ingot_omnicrux",
+    "count": 1
+  }
+}
