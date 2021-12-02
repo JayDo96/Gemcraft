@@ -4,5 +4,6 @@
     "item": "gemcraft:raw_tin"
   },
   "result": "gemcraft:ingot_tin",
+  "experience": 0.7,
   "cookingtime": 75
 }
