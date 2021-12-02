@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gemcraft:raw_omnicrux"
+  },
+  "result": "gemcraft:ingot_omnicrux",
+   "experience": 3.0,
+  "cookingtime": 600
+}
