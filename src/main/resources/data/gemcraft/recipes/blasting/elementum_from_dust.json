@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:dust_elementum"
+  },
+  "result": "gemcraft:ingot_elementum",
+  "cookingtime": 100
+}
