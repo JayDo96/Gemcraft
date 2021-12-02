@@ -14,7 +14,7 @@
       "tag": "forge:storage_blocks/elementum"
     },
     {
-      "tag": "gemcraft:core_entropic"
+      "item": "gemcraft:core_entropic"
     }
   ],
   "result": {
