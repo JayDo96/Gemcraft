@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gemcraft:dust_omnicrux"
+  },
+  "result": "gemcraft:ingot_omnicrux",
+  "cookingtime": 600
+}
