@@ -3,6 +3,7 @@ package com.jaydo.gemcraft.setup;
 import com.jaydo.gemcraft.blocks.*;
 import com.jaydo.gemcraft.items.MaterialItem;
 import com.jaydo.gemcraft.items.MundaneItem;
+import com.jaydo.gemcraft.items.BaubleItem;
 import com.jaydo.gemcraft.main.Main;
 
 import net.minecraft.resources.ResourceLocation;
