@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gemcraft:dust_silver"
+  },
+  "result": "gemcraft:ingot_silver",
+  "cookingtime": 200
+}
