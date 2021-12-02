@@ -4,5 +4,6 @@
     "item": "gemcraft:raw_silver"
   },
   "result": "gemcraft:ingot_silver",
+  "experience": 0.7,
   "cookingtime": 100
 }
