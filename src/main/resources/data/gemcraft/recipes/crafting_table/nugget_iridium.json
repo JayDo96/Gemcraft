@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemcraft:ingot_iridium"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:nugget_iridium",
+    "count": 9
+  }
+}
