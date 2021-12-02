@@ -279,29 +279,33 @@ public class Registration {
 	public static final RegistryObject<StorageBlock> STORAGE_BRONZE = BLOCKS.register("storage_bronze",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_BRONZE = ITEMS.register("storage_bronze",() -> new BlockItem(STORAGE_BRONZE.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 
-	public static final RegistryObject<Item> INGOT_OMNICRUX = ITEMS.register("ingot_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
-	public static final RegistryObject<Item> DUST_OMNICRUX = ITEMS.register("dust_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
-	public static final RegistryObject<Item> NUGGET_OMNICRUX = ITEMS.register("nugget_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> INGOT_OMNICRUX = ITEMS.register("ingot_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> RAW_OMNICRUX = ITEMS.register("raw_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> DUST_OMNICRUX = ITEMS.register("dust_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> NUGGET_OMNICRUX = ITEMS.register("nugget_omnicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.EPIC)));
 	public static final RegistryObject<StorageBlock> STORAGE_OMNICRUX = BLOCKS.register("storage_omnicrux",StorageBlock::new);
-	public static final RegistryObject<BlockItem> ITEM_STORAGE_OMNICRUX = ITEMS.register("storage_omnicrux",() -> new BlockItem(STORAGE_OMNICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.RARE)));
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_OMNICRUX = ITEMS.register("storage_omnicrux",() -> new BlockItem(STORAGE_OMNICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.EPIC)));
 
-	public static final RegistryObject<Item> INGOT_ANTICRUX = ITEMS.register("ingot_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
-	public static final RegistryObject<Item> DUST_ANTICRUX = ITEMS.register("dust_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
-	public static final RegistryObject<Item> NUGGET_ANTICRUX = ITEMS.register("nugget_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> INGOT_ANTICRUX = ITEMS.register("ingot_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> DUST_ANTICRUX = ITEMS.register("dust_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> RAW_ANTICRUX = ITEMS.register("raw_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> NUGGET_ANTICRUX = ITEMS.register("nugget_anticrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
 	public static final RegistryObject<StorageBlock> STORAGE_ANTICRUX = BLOCKS.register("storage_anticrux",StorageBlock::new);
-	public static final RegistryObject<BlockItem> ITEM_STORAGE_ANTICRUX = ITEMS.register("storage_anticrux",() -> new BlockItem(STORAGE_ANTICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.RARE)));
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_ANTICRUX = ITEMS.register("storage_anticrux",() -> new BlockItem(STORAGE_ANTICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.UNCOMMON)));
 
-	public static final RegistryObject<Item> INGOT_PROCRUX = ITEMS.register("ingot_procrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
-	public static final RegistryObject<Item> DUST_PROCRUX = ITEMS.register("dust_procrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
-	public static final RegistryObject<Item> NUGGET_PROCRUX = ITEMS.register("nugget_procrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> INGOT_PROCRUX = ITEMS.register("ingot_procrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> DUST_PROCRUX = ITEMS.register("dust_procrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> RAW_PROCRUX = ITEMS.register("raw_procrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> NUGGET_PROCRUX = ITEMS.register("nugget_procrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
 	public static final RegistryObject<StorageBlock> STORAGE_PROCRUX = BLOCKS.register("storage_procrux",StorageBlock::new);
-	public static final RegistryObject<BlockItem> ITEM_STORAGE_PROCRUX = ITEMS.register("storage_procrux",() -> new BlockItem(STORAGE_PROCRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.RARE)));
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_PROCRUX = ITEMS.register("storage_procrux",() -> new BlockItem(STORAGE_PROCRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.UNCOMMON)));
 
-	public static final RegistryObject<Item> INGOT_QUASICRUX = ITEMS.register("ingot_quasicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.EPIC)));
-	public static final RegistryObject<Item> DUST_QUASICRUX = ITEMS.register("dust_quasicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.EPIC)));
-	public static final RegistryObject<Item> NUGGET_QUASICRUX = ITEMS.register("nugget_quasicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> INGOT_QUASICRUX = ITEMS.register("ingot_quasicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> DUST_QUASICRUX = ITEMS.register("dust_quasicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> RAW_QUASICRUX = ITEMS.register("raw_quasicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> NUGGET_QUASICRUX = ITEMS.register("nugget_quasicrux",() -> new MaterialItem(new Item.Properties().rarity(Rarity.RARE)));
 	public static final RegistryObject<StorageBlock> STORAGE_QUASICRUX = BLOCKS.register("storage_quasicrux",StorageBlock::new);
-	public static final RegistryObject<BlockItem> ITEM_STORAGE_QUASICRUX = ITEMS.register("storage_quasicrux",() -> new BlockItem(STORAGE_QUASICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.EPIC)));
+	public static final RegistryObject<BlockItem> ITEM_STORAGE_QUASICRUX = ITEMS.register("storage_quasicrux",() -> new BlockItem(STORAGE_QUASICRUX.get(),new Item.Properties().tab(Main.GemcraftTabMaterial).rarity(Rarity.RARE)));
 
 	public static final RegistryObject<Item> NUGGET_COPPER = ITEMS.register("nugget_copper",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> DUST_COPPER = ITEMS.register("dust_copper",() -> new MaterialItem(new Item.Properties()));
@@ -342,25 +346,25 @@ public class Registration {
 
 
 	//T1 items
-	public static final RegistryObject<Item> RING_BRONZE = ITEMS.register("ring_bronze",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> RING_ELEMENTUM = ITEMS.register("ring_elementum",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> RING_PLATINUM = ITEMS.register("ring_platinum",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> RING_IRIDIUM = ITEMS.register("ring_iridium",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> RING_BRONZE = ITEMS.register("ring_bronze",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> RING_ELEMENTUM = ITEMS.register("ring_elementum",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> RING_PLATINUM = ITEMS.register("ring_platinum",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> RING_IRIDIUM = ITEMS.register("ring_iridium",() -> new BaubleItem(new Item.Properties()));
 
-	public static final RegistryObject<Item> AMULET_BRONZE = ITEMS.register("amulet_bronze",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> AMULET_ELEMENTUM = ITEMS.register("amulet_elementum",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> AMULET_PLATINUM = ITEMS.register("amulet_platinum",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> AMULET_IRIDIUM = ITEMS.register("amulet_iridium",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> AMULET_BRONZE = ITEMS.register("amulet_bronze",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> AMULET_ELEMENTUM = ITEMS.register("amulet_elementum",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> AMULET_PLATINUM = ITEMS.register("amulet_platinum",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> AMULET_IRIDIUM = ITEMS.register("amulet_iridium",() -> new BaubleItem(new Item.Properties()));
 
-	public static final RegistryObject<Item> BELT_BRONZE = ITEMS.register("belt_bronze",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> BELT_ELEMENTUM = ITEMS.register("belt_elementum",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> BELT_PLATINUM = ITEMS.register("belt_platinum",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> BELT_IRIDIUM = ITEMS.register("belt_iridium",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> BELT_BRONZE = ITEMS.register("belt_bronze",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> BELT_ELEMENTUM = ITEMS.register("belt_elementum",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> BELT_PLATINUM = ITEMS.register("belt_platinum",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> BELT_IRIDIUM = ITEMS.register("belt_iridium",() -> new BaubleItem(new Item.Properties()));
 
-	public static final RegistryObject<Item> VEST_BRONZE = ITEMS.register("vest_bronze",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> VEST_ELEMENTUM = ITEMS.register("vest_elementum",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> VEST_PLATINUM = ITEMS.register("vest_platinum",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> VEST_IRIDIUM = ITEMS.register("vest_iridium",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> VEST_BRONZE = ITEMS.register("vest_bronze",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> VEST_ELEMENTUM = ITEMS.register("vest_elementum",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> VEST_PLATINUM = ITEMS.register("vest_platinum",() -> new BaubleItem(new Item.Properties()));
+	public static final RegistryObject<Item> VEST_IRIDIUM = ITEMS.register("vest_iridium",() -> new BaubleItem(new Item.Properties()));
 	//T2 items
 
 }
