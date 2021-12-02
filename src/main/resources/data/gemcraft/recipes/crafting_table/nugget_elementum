@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemcraft:ingot_elementum"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:nugget_elementum",
+    "count": 9
+  }
+}
