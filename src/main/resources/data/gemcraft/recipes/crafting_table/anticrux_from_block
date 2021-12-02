@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemcraft:storage_anticrux"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_anticrux",
+    "count": 9
+  }
+}
