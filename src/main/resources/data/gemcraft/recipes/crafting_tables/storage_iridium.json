@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "gemcraft:ingot_iridium"
+    }
+  },
+  "result": {
+    "item": "gemcraft:storage_iridium"
+  }
+}
