@@ -196,6 +196,10 @@
     "block.gemcraft.storage_silver": "Silver Block",
     "block.gemcraft.storage_platinum": "Platinum Block",
     "block.gemcraft.storage_iridium": "Iridium Block",
+    "block.gemcraft.storage_quasicrux": "Quasicrux Block",
+    "block.gemcraft.storage_anticrux": "Anticrux Block",
+    "block.gemcraft.storage_procrux": "Procrux Block",
+    "block.gemcraft.storage_omnicrux": "Omnicrux Block",
     
     "item.gemcraft.storage_bronze": "Bronze Block",
     "item.gemcraft.storage_elementum": "Elementum Block",
