@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "XCX",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "gemcraft:core_null"
+    },
+    "C": {
+      "item": "gemcraft:cloth_dragon"
+    }
+  },
+  "result": {
+    "item": "gemcraft:cloth_abyss",
+    "count": 1
+  }
+}
