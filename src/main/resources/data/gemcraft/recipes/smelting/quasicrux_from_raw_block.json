@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gemcraft:storage_raw_quasicrux"
+  },
+  "result": "gemcraft:storage_quasicrux",
+  "experience": 20,
+  "cookingtime": 3200
+}
