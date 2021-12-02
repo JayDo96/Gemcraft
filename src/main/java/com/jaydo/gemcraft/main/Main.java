@@ -36,7 +36,8 @@ public class Main
 
     public static final GemcraftCreativeTab GemcraftTab = new GemcraftCreativeTab("GemcraftTab");
     public static final GemcraftCreativeTabMaterials GemcraftTabMaterial = new GemcraftCreativeTabMaterials("GemcraftTabMaterial");
-
+    public static final GemcraftCreativeTabBaubles GemcraftTabBaubles = new GemcraftCreativeTabBaubles("GemcraftTabBaubles");
+	
     public static Tag<Block> OVR_STONE;
     public static Tag<Block> NETHER_STONE;
     public static Tag<Block> END_STONE;
