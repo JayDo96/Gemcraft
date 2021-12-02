@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:raw_iridium"
+  },
+  "result": "gemcraft:ingot_iridium",
+  "cookingtime": 150
+}
