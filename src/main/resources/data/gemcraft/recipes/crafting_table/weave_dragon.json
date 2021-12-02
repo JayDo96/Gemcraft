@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "gemcraft:fiber_dragon"
+    }
+  },
+  "result": {
+    "item": "gemcraft:weave_dragon",
+    "count": 1
+  }
+}
