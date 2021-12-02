@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemcraft:storage_omnicrux"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_omnicrux",
+    "count": 9
+  }
+}
