@@ -14,7 +14,7 @@
       "tag": "forge:storage_blocks/elementum"
     },
     {
-      "tag": "gemcraft:core_catalyzing"
+      "item": "gemcraft:core_catalyzing"
     }
   ],
   "result": {
