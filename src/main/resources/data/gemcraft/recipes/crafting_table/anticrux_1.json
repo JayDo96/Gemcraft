@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/elementum"
+    },
+    {
+      "tag": "gemcraft:core_entropic"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingots_anticrux",
+    "count": 1
+  }
+}
