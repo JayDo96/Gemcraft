@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemcraft:ingot_quasicrux"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:nugget_quasicrux",
+    "count": 9
+  }
+}
