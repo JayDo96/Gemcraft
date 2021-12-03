@@ -210,6 +210,11 @@ public class Registration {
 	public static final RegistryObject<Item> GEM_CORUNDUM = ITEMS.register("gem_corundum",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
 	public static final RegistryObject<Item> GEM_NETHERSTAR= ITEMS.register("gem_netherstar",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
 	public static final RegistryObject<Item> GEM_DRAGONSTONE= ITEMS.register("gem_dragonstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> GEM_PRISMARINE= ITEMS.register("gem_prismarine",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> GEM_WORLDSTONE= ITEMS.register("gem_worldstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> GEM_VOIDSTONE= ITEMS.register("gem_voidstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> GEM_HELLSTONE= ITEMS.register("gem_hellstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	
 	//rough gems
 	public static final RegistryObject<Item> ROUGH_LAPIS = ITEMS.register("rough_lapis",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 	public static final RegistryObject<Item> ROUGH_JET = ITEMS.register("rough_jet",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
@@ -250,6 +255,10 @@ public class Registration {
 	public static final RegistryObject<Item> ROUGH_MAGMITE = ITEMS.register("rough_magmite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
 	public static final RegistryObject<Item> ROUGH_CORUNDUM = ITEMS.register("rough_corundum",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
 	public static final RegistryObject<Item> ROUGH_DRAGONSTONE= ITEMS.register("rough_dragonstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ROUGH_PRISMARINE= ITEMS.register("rough_prismarine",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ROUGH_WORLDSTONE= ITEMS.register("rough_worldstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ROUGH_VOIDSTONE= ITEMS.register("rough_voidstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ROUGH_HELLSTONE= ITEMS.register("rough_hellstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
 
 	//Materials
 	public static final RegistryObject<Item> DUST_GEM = ITEMS.register("dust_gem",() -> new MaterialItem(new Item.Properties()));
