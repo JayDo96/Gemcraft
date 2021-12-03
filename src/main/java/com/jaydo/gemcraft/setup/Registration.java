@@ -74,6 +74,9 @@ public class Registration {
 	public static final RegistryObject<OreBlockMedium> ORE_SILVER_D = BLOCKS.register("ore_silver_d",OreBlockMedium::new);
 	public static final RegistryObject<OreBlockMedium> ORE_PLATINUM = BLOCKS.register("ore_platinum",OreBlockMedium::new);
 	public static final RegistryObject<OreBlockHard> ORE_IRIDIUM = BLOCKS.register("ore_iridium",OreBlockHard::new);
+	public static final RegistryObject<OreBlockExtreme> ORE_SOUL = BLOCKS.register("ore_soul",OreBlockHard::new);
+	public static final RegistryObject<OreBlockExtreme> ORE_HELL = BLOCKS.register("ore_hell",OreBlockHard::new);
+	public static final RegistryObject<OreBlockExtreme> ORE_VOID = BLOCKS.register("ore_void",OreBlockHard::new);
 		//block items
 	public static final RegistryObject<BlockItem> ORE_ITEM_SAPPHIRE = ITEMS.register("ore_sapphire",() -> new BlockItem(ORE_SAPPHIRE.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_TURBULENT = ITEMS.register("ore_turbulent",() -> new BlockItem(ORE_TURBULENT.get(),new Item.Properties().tab(Main.GemcraftTab)));
@@ -118,6 +121,10 @@ public class Registration {
 	public static final RegistryObject<BlockItem> ORE_ITEM_SILVER_D = ITEMS.register("ore_silver_d",() -> new BlockItem(ORE_SILVER_D.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_PLATINUM = ITEMS.register("ore_platinum",() -> new BlockItem(ORE_PLATINUM.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_IRIDIUM = ITEMS.register("ore_iridium",() -> new BlockItem(ORE_IRIDIUM.get(),new Item.Properties().tab(Main.GemcraftTab)));
+	public static final RegistryObject<BlockItem> ORE_ITEM_SOUL = ITEMS.register("ore_soul",() -> new BlockItem(ORE_SOUL.get(),new Item.Properties().tab(Main.GemcraftTab)));
+	public static final RegistryObject<BlockItem> ORE_ITEM_HELL = ITEMS.register("ore_hell",() -> new BlockItem(ORE_HELL.get(),new Item.Properties().tab(Main.GemcraftTab)));
+	public static final RegistryObject<BlockItem> ORE_ITEM_VOID = ITEMS.register("ore_void",() -> new BlockItem(ORE_VOID.get(),new Item.Properties().tab(Main.GemcraftTab)));
+	
 	//essence
 	public static final RegistryObject<Item> ESSENCE_XP = ITEMS.register("essence_xp",() -> new MundaneItem(new Item.Properties()));
 	public static final RegistryObject<Item> ESSENCE_TORRID = ITEMS.register("essence_torrid",() -> new MundaneItem(new Item.Properties()));
@@ -259,7 +266,50 @@ public class Registration {
 	public static final RegistryObject<Item> ROUGH_SOULSTONE= ITEMS.register("rough_soulstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
 	public static final RegistryObject<Item> ROUGH_VOIDSTONE= ITEMS.register("rough_voidstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
 	public static final RegistryObject<Item> ROUGH_HELLSTONE= ITEMS.register("rough_hellstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	//enchanted gems
+	public static final RegistryObject<Item> ENCHANTED_LAPIS = ITEMS.register("enchanted_lapis",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> ENCHANTED_JET = ITEMS.register("enchanted_jet",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> ENCHANTED_AMBER = ITEMS.register("enchanted_amber",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> ENCHANTED_JASPER = ITEMS.register("enchanted_jasper",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> ENCHANTED_SYLVANITE = ITEMS.register("enchanted_sylvanite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> ENCHANTED_PROUSTITE = ITEMS.register("enchanted_proustite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> ENCHANTED_MALACHITE = ITEMS.register("enchanted_malachite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> ENCHANTED_MAGNETITE = ITEMS.register("enchanted_magnetite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
+	public static final RegistryObject<Item> ENCHANTED_CASSITERITE = ITEMS.register("enchanted_cassiterite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.COMMON)));
 
+	public static final RegistryObject<Item> ENCHANTED_SAPPHIRE = ITEMS.register("enchanted_sapphire",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> ENCHANTED_FOSSIL = ITEMS.register("enchanted_fossil",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> ENCHANTED_RUBY = ITEMS.register("enchanted_ruby",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> ENCHANTED_AQUAMARINE = ITEMS.register("enchanted_aquamarine",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> ENCHANTED_TOPAZ = ITEMS.register("enchanted_topaz",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> ENCHANTED_TURQUOISE = ITEMS.register("enchanted_turquoise",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> ENCHANTED_JADE = ITEMS.register("enchanted_jade",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> ENCHANTED_CINNABAR = ITEMS.register("enchanted_cinnabar",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> ENCHANTED_SPERRYLITE = ITEMS.register("enchanted_sperrylite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> ENCHANTED_ENDER = ITEMS.register("enchanted_ender",() -> new MundaneItem(new Item.Properties().rarity(Rarity.UNCOMMON)));
+
+	public static final RegistryObject<Item> ENCHANTED_ONYX = ITEMS.register("enchanted_onyx",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> ENCHANTED_GLOWSTONE = ITEMS.register("enchanted_glowstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> ENCHANTED_OPAL = ITEMS.register("enchanted_opal",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> ENCHANTED_GARNET = ITEMS.register("enchanted_garnet",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> ENCHANTED_CHRYSOCOLLA = ITEMS.register("enchanted_chrysocolla",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> ENCHANTED_BERYL = ITEMS.register("enchanted_beryl",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> ENCHANTED_FOOLS_GOLD = ITEMS.register("enchanted_fools_gold",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> ENCHANTED_SMOKY_QUARTZ = ITEMS.register("enchanted_smoky_quartz",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> ENCHANTED_BOWIEITE = ITEMS.register("enchanted_bowieite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> ENCHANTED_CHROMITE = ITEMS.register("enchanted_chromite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+	public static final RegistryObject<Item> ENCHANTED_WITHER = ITEMS.register("enchanted_wither",() -> new MundaneItem(new Item.Properties().rarity(Rarity.RARE)));
+
+	public static final RegistryObject<Item> ENCHANTED_MOONSTONE = ITEMS.register("enchanted_moonstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ENCHANTED_SUNSTONE = ITEMS.register("enchanted_sunstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ENCHANTED_PURPURITE = ITEMS.register("enchanted_purpurite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ENCHANTED_MAGMITE = ITEMS.register("enchanted_magmite",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ENCHANTED_CORUNDUM = ITEMS.register("enchanted_corundum",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ENCHANTED_DRAGONSTONE= ITEMS.register("enchanted_dragonstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ENCHANTED_PRISMARINE= ITEMS.register("enchanted_prismarine",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ENCHANTED_SOULSTONE= ITEMS.register("enchanted_soulstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ENCHANTED_VOIDSTONE= ITEMS.register("enchanted_voidstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
+	public static final RegistryObject<Item> ENCHANTED_HELLSTONE= ITEMS.register("enchanted_hellstone",() -> new MundaneItem(new Item.Properties().rarity(Rarity.EPIC)));
 	//Materials
 	public static final RegistryObject<Item> DUST_GEM = ITEMS.register("dust_gem",() -> new MaterialItem(new Item.Properties()));
 
