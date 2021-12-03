@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_aquamarine"
+  },
+  "addition": {
+    "item": "gemcraft:sliver_saturated"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_aquamarine"
+  }
+}
