@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_amber"
+  },
+  "addition": {
+    "item": "gemcraft:essence_radiant"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_amber"
+  }
+}
