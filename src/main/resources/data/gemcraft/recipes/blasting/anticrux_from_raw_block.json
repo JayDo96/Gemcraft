@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:storage_raw_anticrux"
+  },
+  "result": "gemcraft:storage_anticrux",
+  "experience": 20,
+  "cookingtime": 1600
+}
