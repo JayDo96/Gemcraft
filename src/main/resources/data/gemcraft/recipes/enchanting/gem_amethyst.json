@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_amethyst"
+  },
+  "addition": {
+    "item": "gemcraft:sliver_frigid"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_amethyst"
+  }
+}
