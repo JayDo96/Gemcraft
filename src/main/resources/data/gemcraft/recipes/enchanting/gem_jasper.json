@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_jasper"
+  },
+  "addition": {
+    "item": "gemcraft:essence_lush"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_jasper"
+  }
+}
