@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_jade"
+  },
+  "addition": {
+    "item": "gemcraft:sliver_lithic"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_jade"
+  }
+}
