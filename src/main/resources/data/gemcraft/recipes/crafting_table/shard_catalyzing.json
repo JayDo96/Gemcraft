@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DED",
+    "EDE",
+    "DED"
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:dusts/gem"
+    },
+    "E": {
+      "item": "gemcraft:sliver_catalyzing"
+    }
+  },
+  "result": {
+    "item": "gemcraft:shard_catalyzing",
+    "count": 1
+  }
+}
