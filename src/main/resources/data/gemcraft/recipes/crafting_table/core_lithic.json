@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DED",
+    "EDE",
+    "DED"
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:dusts/gem"
+    },
+    "E": {
+      "item": "gemcraft:shard_lithic"
+    }
+  },
+  "result": {
+    "item": "gemcraft:core_lithic",
+    "count": 1
+  }
+}
