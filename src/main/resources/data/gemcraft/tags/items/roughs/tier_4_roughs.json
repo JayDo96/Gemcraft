@@ -7,6 +7,10 @@
       "forge:roughs/purpurite",
       "forge:roughs/corundum",
       "forge:roughs/ether",
-      "forge:roughs/dragonstone"
+      "forge:roughs/dragonstone",
+      "forge:roughs/prismarine",
+      "forge:roughs/soulstone",
+      "forge:roughs/hellstone",
+      "forge:roughs/voidstone"
     ]
   }
