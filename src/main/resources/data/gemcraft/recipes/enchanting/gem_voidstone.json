@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_voidstone"
+  },
+  "addition": {
+    "item": "gemcraft:core_null"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_voidstone"
+  }
+}
