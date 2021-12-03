@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "gemcraft:rough_worldstone"
-  },
-  "result": "gemcraft:gem_worldstone",
-  "count": 1
-}

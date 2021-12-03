@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "gemcraft:rough_soulstone"
+  },
+  "result": "gemcraft:gem_soulstone",
+  "count": 1
+}
