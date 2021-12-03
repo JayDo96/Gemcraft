@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_opal"
+  },
+  "addition": {
+    "item": "gemcraft:shard_prismatic"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_opal"
+  }
+}
