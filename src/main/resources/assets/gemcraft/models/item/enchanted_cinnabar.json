@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "gemcraft:item/gem_jade"
+    "layer0": "gemcraft:item/gem_cinnabar"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "gemcraft:item/gem_torquoise"
+    "layer0": "gemcraft:item/gem_turquoise"
   }
 }

@@ -74,9 +74,9 @@ public class Registration {
 	public static final RegistryObject<OreBlockMedium> ORE_SILVER_D = BLOCKS.register("ore_silver_d",OreBlockMedium::new);
 	public static final RegistryObject<OreBlockMedium> ORE_PLATINUM = BLOCKS.register("ore_platinum",OreBlockMedium::new);
 	public static final RegistryObject<OreBlockHard> ORE_IRIDIUM = BLOCKS.register("ore_iridium",OreBlockHard::new);
-	public static final RegistryObject<OreBlockExtreme> ORE_SOUL = BLOCKS.register("ore_soul",OreBlockHard::new);
-	public static final RegistryObject<OreBlockExtreme> ORE_HELL = BLOCKS.register("ore_hell",OreBlockHard::new);
-	public static final RegistryObject<OreBlockExtreme> ORE_VOID = BLOCKS.register("ore_void",OreBlockHard::new);
+	public static final RegistryObject<OreBlockExtreme> ORE_SOUL = BLOCKS.register("ore_soul",OreBlockExtreme::new);
+	public static final RegistryObject<OreBlockExtreme> ORE_HELL = BLOCKS.register("ore_hell",OreBlockExtreme::new);
+	public static final RegistryObject<OreBlockExtreme> ORE_VOID = BLOCKS.register("ore_void",OreBlockExtreme::new);
 		//block items
 	public static final RegistryObject<BlockItem> ORE_ITEM_SAPPHIRE = ITEMS.register("ore_sapphire",() -> new BlockItem(ORE_SAPPHIRE.get(),new Item.Properties().tab(Main.GemcraftTab)));
 	public static final RegistryObject<BlockItem> ORE_ITEM_TURBULENT = ITEMS.register("ore_turbulent",() -> new BlockItem(ORE_TURBULENT.get(),new Item.Properties().tab(Main.GemcraftTab)));
