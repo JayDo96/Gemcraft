@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_prismarine"
+  },
+  "addition": {
+    "item": "gemcraft:core_saturated"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_prismarine"
+  }
+}
