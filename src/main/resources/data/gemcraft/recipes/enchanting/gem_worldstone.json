@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_worldstone"
+  },
+  "addition": {
+    "item": "gemcraft:core_lush"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_worldstone"
+  }
+}
