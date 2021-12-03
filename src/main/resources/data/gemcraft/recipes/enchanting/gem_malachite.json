@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_malachite"
+  },
+  "addition": {
+    "item": "gemcraft:essence_turbulent"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_malachite"
+  }
+}
