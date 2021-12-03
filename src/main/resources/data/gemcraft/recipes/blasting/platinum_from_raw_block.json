@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:storage_raw_platinum"
+  },
+  "result": "gemcraft:storage_platinum",
+  "experience": 9,
+  "cookingtime": 1000
+}
