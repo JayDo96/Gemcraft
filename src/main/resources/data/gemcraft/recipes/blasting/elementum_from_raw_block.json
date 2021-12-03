@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gemcraft:storage_raw_elementum"
+  },
+  "result": "gemcraft:storage_elementum",
+  "experience": 5.0,
+  "cookingtime": 800
+}
