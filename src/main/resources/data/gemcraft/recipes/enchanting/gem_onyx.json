@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_onyx"
+  },
+  "addition": {
+    "item": "gemcraft:shard_entropic"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_onyx"
+  }
+}
