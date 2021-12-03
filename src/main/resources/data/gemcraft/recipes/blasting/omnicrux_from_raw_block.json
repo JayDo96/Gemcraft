@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:storage_raw_omnicrux"
+  },
+  "result": "gemcraft:storage_omnicrux",
+  "experience": 30,
+  "cookingtime": 2400
+}
