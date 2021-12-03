@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_jet"
+  },
+  "addition": {
+    "item": "gemcraft:essence_torrid"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_jet"
+  }
+}
