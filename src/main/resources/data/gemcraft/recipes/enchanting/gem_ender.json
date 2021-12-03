@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_ender"
+  },
+  "addition": {
+    "item": "gemcraft:sliver_entropic"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_ender"
+  }
+}
