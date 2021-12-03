@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_sylvanite"
+  },
+  "addition": {
+    "item": "gemcraft:essence_lithic"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_sylvanite"
+  }
+}
