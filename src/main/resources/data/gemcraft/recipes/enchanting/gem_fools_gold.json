@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_fools_gold"
+  },
+  "addition": {
+    "item": "gemcraft:shard_radiant"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_fools_gold"
+  }
+}
