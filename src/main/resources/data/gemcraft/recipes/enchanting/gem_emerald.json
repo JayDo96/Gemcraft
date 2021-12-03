@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_emerald"
+  },
+  "addition": {
+    "item": "gemcraft:shard_lush"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_emerald"
+  }
+}
