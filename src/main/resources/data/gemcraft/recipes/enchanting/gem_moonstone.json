@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_moonstone"
+  },
+  "addition": {
+    "item": "gemcraft:core_turbulent"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_moonstone"
+  }
+}
