@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_netherstar"
+  },
+  "addition": {
+    "item": "gemcraft:core_catalyzing"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_netherstar"
+  }
+}
