@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_turquoise"
+  },
+  "addition": {
+    "item": "gemcraft:sliver_torrid"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_turquoise"
+  }
+}
