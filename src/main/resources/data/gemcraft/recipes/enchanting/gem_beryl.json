@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_beryl"
+  },
+  "addition": {
+    "item": "gemcraft:shard_torrid"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_beryl"
+  }
+}
