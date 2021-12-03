@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_purpurite"
+  },
+  "addition": {
+    "item": "gemcraft:core_frigid"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_purpurite"
+  }
+}
