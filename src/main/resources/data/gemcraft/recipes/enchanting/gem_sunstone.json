@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_sunstone"
+  },
+  "addition": {
+    "item": "gemcraft:core_radiant"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_sunstone"
+  }
+}
