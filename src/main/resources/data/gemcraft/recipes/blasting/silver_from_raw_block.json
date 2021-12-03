@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:storage_raw_silver"
+  },
+  "result": "gemcraft:storage_silver",
+  "experience": 7.0,
+  "cookingtime": 800
+}
