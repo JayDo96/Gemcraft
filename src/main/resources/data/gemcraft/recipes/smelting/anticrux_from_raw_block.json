@@ -1,9 +1,9 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "gemcraft:storage_raw_tin"
+    "item": "gemcraft:storage_raw_anticrux"
   },
-  "result": "gemcraft:storage_tin",
+  "result": "gemcraft:storage_anticrux",
   "experience": 20,
   "cookingtime": 3200
 }
