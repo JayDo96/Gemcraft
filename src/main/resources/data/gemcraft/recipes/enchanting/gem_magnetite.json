@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_magnetite"
+  },
+  "addition": {
+    "item": "gemcraft:essence_catalyzing"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_magnetite"
+  }
+}
