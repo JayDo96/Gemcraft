@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_topaz"
+  },
+  "addition": {
+    "item": "gemcraft:sliver_turbulent"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_topaz"
+  }
+}
