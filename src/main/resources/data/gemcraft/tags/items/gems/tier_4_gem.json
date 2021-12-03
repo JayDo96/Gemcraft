@@ -6,7 +6,11 @@
       "forge:gems/sunstone",
       "forge:gems/purpurite",
       "forge:gems/corundum",
-      "forge:gems/ether",
-      "forge:gems/dragonstone"
+      "forge:gems/ender",
+      "forge:gems/dragonstone",
+      "forge:gems/prismarine",
+      "forge:gems/soulstone",
+      "forge:gems/hellstone",
+      "forge:gems/voidstone"
     ]
   }
