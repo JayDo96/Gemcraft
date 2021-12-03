@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_dragonstone"
+  },
+  "addition": {
+    "item": "gemcraft:core_prismatic"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_dragonstone"
+  }
+}
