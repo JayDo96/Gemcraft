@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_cinnabar"
+  },
+  "addition": {
+    "item": "gemcraft:sliver_lithic"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_cinnabar"
+  }
+}
