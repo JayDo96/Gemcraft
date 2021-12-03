@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "gemcraft:rough_lapis"
-  },
-  "result": "gemcraft:gem_lapis",
-  "count": 1
-}
