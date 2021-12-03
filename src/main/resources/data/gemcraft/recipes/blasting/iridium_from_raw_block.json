@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gemcraft:storage_raw_iridium"
+  },
+  "result": "gemcraft:storage_iridium",
+  "experience": 12,
+  "cookingtime": 1200
+}
