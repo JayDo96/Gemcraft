@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_corundum"
+  },
+  "addition": {
+    "item": "gemcraft:core_lithic"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_corundum"
+  }
+}
