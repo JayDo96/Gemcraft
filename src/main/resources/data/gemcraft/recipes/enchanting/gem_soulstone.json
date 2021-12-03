@@ -1,12 +1,12 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "gemcraft:gem_worldstone"
+    "item": "gemcraft:gem_soulstone"
   },
   "addition": {
     "item": "gemcraft:core_lush"
   },
   "result": {
-    "item": "gemcraft:enchanted_worldstone"
+    "item": "gemcraft:enchanted_soulstone"
   }
 }
