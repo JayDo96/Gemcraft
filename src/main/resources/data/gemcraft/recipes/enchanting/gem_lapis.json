@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_lapis"
+  },
+  "addition": {
+    "item": "gemcraft:essence_saturated"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_lapis"
+  }
+}
