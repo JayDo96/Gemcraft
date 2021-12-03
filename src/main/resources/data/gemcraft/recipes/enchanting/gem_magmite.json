@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gemcraft:gem_magmite"
+  },
+  "addition": {
+    "item": "gemcraft:core_torrid"
+  },
+  "result": {
+    "item": "gemcraft:enchanted_magmite"
+  }
+}
