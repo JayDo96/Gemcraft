@@ -8,3 +8,4 @@ Need to add ore for voidstone hellstone soulstone and prismarine
 Need to add generations for voidstone hellstone soulstone and prismarine
 Need to work with Aerawave on getting higher quality textures for gems/roughs
 Need to make the tinted glint overlays for the enchanted gems
+Need to work on textures/code for the bags
