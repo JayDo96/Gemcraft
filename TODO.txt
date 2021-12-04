@@ -1,0 +1,4 @@
+Need to removed the overiding of vanilla ore loot tables and instead inject the new pools into them so I wont run into mod compatibility issues
+Need to make textures for the Raw blocks for all the materials that have them
+Need to make ingot nugget block and raw textures for omnicrux anticrux procrux and quasicrux
+Need to implement layered models for ore to ensure text compatibilty and reduces the amount of assets
