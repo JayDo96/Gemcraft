@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:block/spruce_wood",
+      "minecraft:block/oak_wood,
+      "minecraft:block/birch_wood"
+    ]
+  }
