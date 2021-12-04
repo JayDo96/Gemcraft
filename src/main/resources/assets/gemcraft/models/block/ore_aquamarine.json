@@ -1,7 +1,6 @@
 ﻿{   "parent": "block/block",
   "textures": {
-      "particle": "block/sand",
-      "base": "block/sand",
+      "base": "minecraft:block/sand",
       "ore": "gemcraft:block/ore_aquamarine"
   },
   "elements": [
