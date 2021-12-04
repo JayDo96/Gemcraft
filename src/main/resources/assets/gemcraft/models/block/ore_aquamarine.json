@@ -1,4 +1,4 @@
-﻿{   "parent": "block/block",
+﻿{   "parent": "block/tinted_glass",
   "textures": {
       "base": "minecraft:block/sand",
       "ore": "gemcraft:block/ore_aquamarine"
