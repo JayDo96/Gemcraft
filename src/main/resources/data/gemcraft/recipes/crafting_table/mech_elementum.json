@@ -2,12 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "pgp",
-    "rrr",
+    "grg",
     "pgp"
   ],
   "key": {
     "p": {
-      "tag": "gemcraft:category/hardwood"
+      "item": "gemcraft:brick_purple"
     },
     "r": {
       "tag": "forge:rods/elementum"
