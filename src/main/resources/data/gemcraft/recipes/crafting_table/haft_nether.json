@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " p ",
+    "whw",
+    " h "
+  ],
+  "key": {
+    "p": {
+      "item": "gemcraft:prong_platinum"
+    },
+    "w": {
+      "item": "gemcraft:cloth_flux"
+    },
+    "h": {
+      "tag": "gemcraft:category/netherwood"
+    }
+  },
+  "result": {
+    "item": "gemcraft:haft_nether",
+    "count": 1
+  }
+}
