@@ -13,7 +13,7 @@
       "tag": "forge:storage_blocks/bronze"
     },
     "l": {
-      "item": "gemcraft:cloth_flax"
+      "tag": "forge:cloths/flax"
     }
   },
   "result": {
