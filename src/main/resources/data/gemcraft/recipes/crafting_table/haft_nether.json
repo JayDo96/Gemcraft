@@ -10,7 +10,7 @@
       "item": "gemcraft:prong_platinum"
     },
     "w": {
-      "item": "gemcraft:cloth_flux"
+      "tag": "forge:cloths/flux"
     },
     "h": {
       "tag": "gemcraft:category/netherwood"
