@@ -10,7 +10,7 @@
       "tag": "forge:ingots/bronze"
     },
     "c": {
-      "item": "gemcraft:cloth_flax"
+      "item": "forge:cloths/flax"
     }
   },
   "result": {
