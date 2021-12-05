@@ -429,6 +429,45 @@ public class Registration {
 	public static final RegistryObject<StorageBlock> STORAGE_RAW_IRIDIUM = BLOCKS.register("storage_raw_iridium",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_STORAGE_RAW_IRIDIUM= ITEMS.register("storage_raw_iridium",() -> new BlockItem(STORAGE_RAW_IRIDIUM.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 
+	//Crafting Parts
+	
+	public static final RegistryObject<Item> ROD_BRONZE = ITEMS.register("rod_bronze",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> ROD_ELEMENTUM = ITEMS.register("rod_elementum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> ROD_PLATINUM = ITEMS.register("rod_platinum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> ROD_IRIDIUM = ITEMS.register("rod_iridium",() -> new MaterialItem(new Item.Properties()));
+	
+	public static final RegistryObject<Item> GEAR_BRONZE = ITEMS.register("gear_bronze",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> GEAR_ELEMENTUM = ITEMS.register("gear_elementum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> GEAR_PLATINUM = ITEMS.register("gear_platinum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> GEAR_IRIDIUM = ITEMS.register("gear_iridium",() -> new MaterialItem(new Item.Properties()));
+	
+	public static final RegistryObject<Item> MECH_BRONZE = ITEMS.register("mech_bronze",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> MECH_ELEMENTUM = ITEMS.register("mech_elementum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> MECH_PLATINUM = ITEMS.register("mech_platinum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> MECH_IRIDIUM = ITEMS.register("mech_iridium",() -> new MaterialItem(new Item.Properties()));
+	
+	public static final RegistryObject<Item> HAFT_SOFT = ITEMS.register("haft_soft",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> HAFT_HARD = ITEMS.register("haft_hard",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> HAFT_NETHER = ITEMS.register("haft_nether",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> HAFT_END = ITEMS.register("haft_end",() -> new MaterialItem(new Item.Properties()));
+	
+	public static final RegistryObject<Item> PRONG_BRONZE = ITEMS.register("prong_bronze",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> PRONG_ELEMENTUM = ITEMS.register("prong_elementum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> PRONG_PLATINUM = ITEMS.register("prong_platinum",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> PRONG_IRIDIUM = ITEMS.register("prong_iridium",() -> new MaterialItem(new Item.Properties()));
+	
+	public static final RegistryObject<StorageBlock> BRICK_BLUE = BLOCKS.register("brick_blue",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_BRICK_BLUE= ITEMS.register("brick_blue",() -> new BlockItem(BRICK_BLUE.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	
+	public static final RegistryObject<StorageBlock> BRICK_RED = BLOCKS.register("brick_red",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_BRICK_RED= ITEMS.register("brick_red",() -> new BlockItem(BRICK_RED.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	
+	public static final RegistryObject<StorageBlock> BRICK_PURPLE = BLOCKS.register("brick_purple",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_BRICK_PURPLE= ITEMS.register("brick_purple",() -> new BlockItem(BRICK_PURPLE.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	
+	public static final RegistryObject<StorageBlock> BRICK_WHITE = BLOCKS.register("brick_white",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_BRICK_WHITE= ITEMS.register("brick_white",() -> new BlockItem(BRICK_BLUE.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	
 
 	//T1 items
 	public static final RegistryObject<Item> RING_BRONZE = ITEMS.register("ring_bronze",() -> new BaubleItem(new Item.Properties()));
