@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    "ini",
+    " i "
+  ],
+  "key": {
+    "n": {
+      "tag": "gemcraft:category/tier_1_essence"
+    },
+    "i": {
+      "tag": "forge:bricks/stone"
+    }
+  },
+  "result": {
+    "item": "gemcraft:brick_blue",
+    "count": 1
+  }
+}
