@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "n n",
+    " i "
+  ],
+  "key": {
+    "n": {
+      "tag": "forge:nuggets/platinum"
+    },
+    "i": {
+      "tag": "forge:ingots/platinum"
+    }
+  },
+  "result": {
+    "item": "gemcraft:prong_platinum",
+    "count": 1
+  }
+}
