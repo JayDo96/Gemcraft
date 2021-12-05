@@ -10,7 +10,7 @@
       "item": "gemcraft:prong_iridium"
     },
     "w": {
-      "item": "gemcraft:cloth_abyss"
+      "tag": "forge:cloths/abyss"
     },
     "h": {
       "tag": "gemcraft:category/endwood"
