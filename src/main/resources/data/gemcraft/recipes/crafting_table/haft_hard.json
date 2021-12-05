@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " p ",
+    "whw",
+    " h "
+  ],
+  "key": {
+    "p": {
+      "item": "gemcraft:prong_elementum"
+    },
+    "w": {
+      "item": "gemcraft:cloth_shade"
+    },
+    "h": {
+      "tag": "gemcraft:category/hardwood"
+    }
+  },
+  "result": {
+    "item": "gemcraft:haft_hard",
+    "count": 1
+  }
+}
