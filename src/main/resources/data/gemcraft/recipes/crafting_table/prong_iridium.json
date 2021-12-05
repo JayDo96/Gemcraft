@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "n n",
+    " i "
+  ],
+  "key": {
+    "n": {
+      "tag": "forge:nuggets/iridium"
+    },
+    "i": {
+      "tag": "forge:ingots/iridium"
+    }
+  },
+  "result": {
+    "item": "gemcraft:prong_iridium",
+    "count": 1
+  }
+}
