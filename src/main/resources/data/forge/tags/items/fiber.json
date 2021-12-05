@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:fiber_flax",
-      "gemcraft:fiber_shade",
-      "gemcraft:fiber_rock",
-      "gemcraft:fiber_dragon"
+      "forge:fibers/flax",
+      "forge:fibers/shade",
+      "forge:fibers/rock",
+      "forge:fibers/dragon"
     ]
   }
