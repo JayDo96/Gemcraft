@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    "ioi",
+    " i "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/platinum"
+    },
+    "o": {
+      "tag": "forge:ingots/bronze"
+    }
+  },
+  "result": {
+    "item": "gemcraft:gear_platinum",
+    "count": 1
+  }
+}
