@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pgp",
+    "rrr",
+    "pgp"
+  ],
+  "key": {
+    "p": {
+      "tag": "gemcraft:category/softwood"
+    },
+    "r": {
+      "tag": "forge:rods/bronze"
+    },
+    "g": {
+      "tag": "forge:gears/bronze"
+    }
+  },
+  "result": {
+    "item": "gemcraft:mech_bronze",
+    "count": 1
+  }
+}
