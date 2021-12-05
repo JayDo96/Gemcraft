@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    "ini",
+    " i "
+  ],
+  "key": {
+    "n": {
+      "tag": "gemcraft:category/tier_3_essence"
+    },
+    "i": {
+      "tag": "forge:bricks/nether"
+    }
+  },
+  "result": {
+    "item": "gemcraft:brick_red",
+    "count": 1
+  }
+}
