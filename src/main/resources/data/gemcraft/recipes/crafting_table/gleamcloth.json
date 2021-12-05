@@ -10,7 +10,7 @@
       "item": "gemcraft:essence_radiant"
     },
     "C": {
-      "item": "gemcraft:cloth_flax"
+      "item": "forge:cloths/flax"
     }
   },
   "result": {
