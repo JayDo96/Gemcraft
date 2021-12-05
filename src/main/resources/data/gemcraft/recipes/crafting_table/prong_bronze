@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "n n",
+    " i "
+  ],
+  "key": {
+    "n": {
+      "tag": "forge:nuggets/bronze"
+    },
+    "i": {
+      "tag": "forge:ingots/bronze"
+    }
+  },
+  "result": {
+    "item": "gemcraft:prong_bronze",
+    "count": 1
+  }
+}
