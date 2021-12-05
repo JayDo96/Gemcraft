@@ -466,7 +466,10 @@ public class Registration {
 	public static final RegistryObject<BlockItem> ITEM_BRICK_PURPLE= ITEMS.register("brick_purple",() -> new BlockItem(BRICK_PURPLE.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 	
 	public static final RegistryObject<StorageBlock> BRICK_WHITE = BLOCKS.register("brick_white",StorageBlock::new);
-	public static final RegistryObject<BlockItem> ITEM_BRICK_WHITE= ITEMS.register("brick_white",() -> new BlockItem(BRICK_BLUE.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	public static final RegistryObject<BlockItem> ITEM_BRICK_WHITE= ITEMS.register("brick_white",() -> new BlockItem(BRICK_WHITE.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	
+	public static final RegistryObject<StorageBlock> BRICK_OBSIDIAN = BLOCKS.register("brick_obsidian",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_BRICK_OBSIDIAN= ITEMS.register("brick_obsidian",() -> new BlockItem(BRICK_OBSIDIAN.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 	
 
 	//T1 items
