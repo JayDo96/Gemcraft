@@ -10,7 +10,7 @@
       "item": "gemcraft:core_null"
     },
     "C": {
-      "item": "gemcraft:cloth_dragon"
+      "item": "forge:cloths/dragon"
     }
   },
   "result": {
