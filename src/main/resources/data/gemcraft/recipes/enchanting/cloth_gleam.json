@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "forge:cloths/flax"
+  },
+  "addition": {
+    "item": "gemcraft:essence_radiant"
+  },
+  "result": {
+    "item": "gemcraft:cloth_gleam"
+  }
+}
