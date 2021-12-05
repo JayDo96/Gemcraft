@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pgp",
+    "rrr",
+    "pgp"
+  ],
+  "key": {
+    "p": {
+      "tag": "gemcraft:category/hardwood"
+    },
+    "r": {
+      "tag": "forge:rods/elementum"
+    },
+    "g": {
+      "tag": "forge:gears/elementum"
+    }
+  },
+  "result": {
+    "item": "gemcraft:mech_elementum",
+    "count": 1
+  }
+}
