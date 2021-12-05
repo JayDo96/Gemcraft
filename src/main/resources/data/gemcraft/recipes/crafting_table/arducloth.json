@@ -10,7 +10,7 @@
       "item": "gemcraft:sliver_lithic"
     },
     "C": {
-      "item": "forge:cloths/shade"
+      "tag": "forge:cloths/shade"
     }
   },
   "result": {
