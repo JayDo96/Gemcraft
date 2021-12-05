@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "forge:cloths/rock"
+  },
+  "addition": {
+    "item": "gemcraft:shard_torrid"
+  },
+  "result": {
+    "item": "gemcraft:cloth_flux"
+  }
+}
