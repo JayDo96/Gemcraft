@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:cloth_rock"
+      "gemcraft:cloth_rock",
+      "gemcraft:cloth_flux"
     ]
   }
