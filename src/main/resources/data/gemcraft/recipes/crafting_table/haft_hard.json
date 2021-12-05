@@ -10,7 +10,7 @@
       "item": "gemcraft:prong_elementum"
     },
     "w": {
-      "item": "gemcraft:cloth_ardu"
+      "tag": "forge:cloths/ardu"
     },
     "h": {
       "tag": "gemcraft:category/hardwood"
