@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pgp",
+    "rrr",
+    "pgp"
+  ],
+  "key": {
+    "p": {
+      "tag": "gemcraft:category/endwood"
+    },
+    "r": {
+      "tag": "forge:rods/iridium"
+    },
+    "g": {
+      "tag": "forge:gears/iridium"
+    }
+  },
+  "result": {
+    "item": "gemcraft:mech_iridium",
+    "count": 1
+  }
+}
