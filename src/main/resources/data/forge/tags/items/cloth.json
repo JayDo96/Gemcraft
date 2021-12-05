@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "forge:cloths/flax",
+      "forge:cloths/shade",
+      "forge:cloths/rock",
+      "forge:cloths/dragon"
+    ]
+  }
