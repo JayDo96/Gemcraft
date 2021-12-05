@@ -10,7 +10,7 @@
       "item": "gemcraft:prong_bronze"
     },
     "w": {
-      "item": "gemcraft:cloth_gleam"
+      "tag": "forge:cloths/leam"
     },
     "h": {
       "tag": "gemcraft:category/softwood"
