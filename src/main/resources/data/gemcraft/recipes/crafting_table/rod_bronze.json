@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i",
+    "i",
+    "i"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/bronze"
+    }
+  },
+  "result": {
+    "item": "gemcraft:rod_bronze",
+    "count": 1
+  }
+}
