@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:block/stone_bricks",
+      "minecraft:block/cracked_stone_bricks",
+      "minecraft:block/mossy_stone_bricks",
+      "minecraft:block/chiseled_stone_bricks"
+    ]
+  }
