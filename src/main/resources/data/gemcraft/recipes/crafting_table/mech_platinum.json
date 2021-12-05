@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pgp",
+    "rrr",
+    "pgp"
+  ],
+  "key": {
+    "p": {
+      "tag": "gemcraft:category/netherwood"
+    },
+    "r": {
+      "tag": "forge:rods/platinum"
+    },
+    "g": {
+      "tag": "forge:gears/platinum"
+    }
+  },
+  "result": {
+    "item": "gemcraft:mech_platinum",
+    "count": 1
+  }
+}
