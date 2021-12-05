@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    "ini",
+    " i "
+  ],
+  "key": {
+    "n": {
+      "tag": "gemcraft:category/tier_2_essence"
+    },
+    "i": {
+      "tag": "forge:bricks/obsidian"
+    }
+  },
+  "result": {
+    "item": "gemcraft:brick_purple",
+    "count": 1
+  }
+}
