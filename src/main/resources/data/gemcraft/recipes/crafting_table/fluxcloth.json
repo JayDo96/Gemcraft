@@ -10,7 +10,7 @@
       "item": "gemcraft:shard_torrid"
     },
     "C": {
-      "item": "gemcraft:cloth_rock"
+      "item": "forge:cloths/rock"
     }
   },
   "result": {
