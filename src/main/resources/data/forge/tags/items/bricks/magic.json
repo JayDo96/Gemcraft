@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:bricks_blue",
-      "gemcraft:bricks_red",
-      "gemcraft:bricks_white",
-      "gemcraft:bricks_purple"
+      "gemcraft:brick_blue",
+      "gemcraft:brick_red",
+      "gemcraft:brick_white",
+      "gemcraft:brick_purple"
     ]
   }
