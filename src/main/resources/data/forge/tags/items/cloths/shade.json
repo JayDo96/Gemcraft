@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:cloth_shade"
+      "gemcraft:cloth_shade",
+      "gemcraft:cloth_ardu"
     ]
   }
