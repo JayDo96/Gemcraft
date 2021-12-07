@@ -507,6 +507,8 @@ public class WorldGen {
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, NETHER_ORE_XP_GEN);
             if (NETHER_ORE_CATALYZING_GEN != null)
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, NETHER_ORE_CATALYZING_GEN);
+            if (NETHER_ORE_HELL_GEN != null)
+                generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, NETHER_ORE_HELL_GEN);
 
 
         }
@@ -527,6 +529,8 @@ public class WorldGen {
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, END_ORE_NULL_GEN);
             if (END_ORE_CHAOS_GEN != null)
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, END_ORE_CHAOS_GEN);
+            if (END_ORE_VOID_GEN != null)
+                generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, END_ORE_VOID_GEN);
         }
         if (!event.getCategory().equals(Biome.BiomeCategory.THEEND) &&(!event.getCategory().equals(Biome.BiomeCategory.NETHER))) {
             if (OVR_ORE_SILVER_GEN != null)
@@ -567,6 +571,8 @@ public class WorldGen {
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, OVR_ORE_LUSH_GEN_D);
             if (OVR_ORE_TOPAZ_GEN != null)
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, OVR_ORE_TOPAZ_GEN);
+            if (OVR_ORE_SOUL_GEN != null)
+                generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, OVR_ORE_SOUL_GEN);
         }
         if (event.getCategory().equals(Biome.BiomeCategory.BEACH)) {
             if (OVR_ORE_AQUAMARINE_GEN != null)

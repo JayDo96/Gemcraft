@@ -1,6 +1,7 @@
 ﻿{
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube_column",
   "textures": {
-    "all": "gemcraft:block/ore_beryl"
+    "end": "gemcraft:block/ore_beryl",
+    "side": "gemcraft:block/ore_beryl_side"
   }
 }
