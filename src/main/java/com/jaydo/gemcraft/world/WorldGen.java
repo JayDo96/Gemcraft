@@ -4,27 +4,22 @@ import com.jaydo.gemcraft.setup.Registration;
 import net.minecraft.core.Registry;
 import net.minecraft.data.BuiltinRegistries;
 import net.minecraft.resources.ResourceLocation;
-import net.minecraft.world.level.WorldGenLevel;
 import net.minecraft.world.level.biome.Biome;
 import net.minecraft.world.level.levelgen.GenerationStep;
 import net.minecraft.world.level.levelgen.VerticalAnchor;
 import net.minecraft.world.level.levelgen.feature.ConfiguredFeature;
 import net.minecraft.world.level.levelgen.feature.Feature;
-
 import net.minecraft.world.level.levelgen.feature.configurations.FeatureConfiguration;
 import net.minecraft.world.level.levelgen.feature.configurations.OreConfiguration;
 import net.minecraft.world.level.levelgen.feature.configurations.RangeDecoratorConfiguration;
-import net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight;
 import net.minecraft.world.level.levelgen.heightproviders.UniformHeight;
 import net.minecraft.world.level.levelgen.structure.templatesystem.TagMatchTest;
-import net.minecraftforge.common.BiomeManager;
 import net.minecraftforge.common.world.BiomeGenerationSettingsBuilder;
 import net.minecraftforge.event.world.BiomeLoadingEvent;
 import net.minecraftforge.eventbus.api.EventPriority;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 
-import java.rmi.registry.RegistryHandler;
 
 @Mod.EventBusSubscriber
 public class WorldGen {
@@ -74,6 +69,9 @@ public class WorldGen {
     public static ConfiguredFeature<?, ?> OVR_ORE_CATALYZING_GEN;
     public static ConfiguredFeature<?, ?> END_ORE_NULL_GEN;
     public static ConfiguredFeature<?, ?> END_ORE_CHAOS_GEN;
+    public static ConfiguredFeature<?, ?> END_ORE_VOID_GEN;
+    public static ConfiguredFeature<?, ?> OVR_ORE_SOUL_GEN;
+    public static ConfiguredFeature<?, ?> NETHER_ORE_HELL_GEN;
     public static int GemVeinSize = 4;
     public static int EssenceVeinSizeS = 5;
     public static int EssenceVeinSizeL = 10;
@@ -184,6 +182,15 @@ public class WorldGen {
                 .squared()
                 .count(RarityEpic));
 
+        OVR_ORE_SOUL_GEN = register("ovr_ore_soul_gen", Feature.ORE
+                .configured(new OreConfiguration(new TagMatchTest(Main.OVR_TUFF),
+                        Registration.ORE_SOUL.get().defaultBlockState(),
+                        GemVeinSize, // Vein size
+                        0.5F))  // Exposition of the Ore
+                .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(0), VerticalAnchor.absolute(20))))
+                .squared()
+                .count(RarityEpic));
+
         ///////////NETHER START
         NETHER_ORE_PLATINUM_GEN = register("nether_ore_platinum_gen", Feature.ORE
                 .configured(new OreConfiguration(new TagMatchTest(Main.NETHER_STONE),
@@ -226,6 +233,15 @@ public class WorldGen {
                 .squared()
                 .count(RarityRare));
 
+        NETHER_ORE_HELL_GEN = register("nether_ore_hell_gen", Feature.ORE
+            .configured(new OreConfiguration(new TagMatchTest(Main.NETHER_BLACKSTONE),
+                        Registration.ORE_HELL.get().defaultBlockState(),
+                        GemVeinSize, // Vein size
+                        0.75F))  // Exposition of the Ore
+                .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(0), VerticalAnchor.absolute(20))))
+                .squared()
+                .count(RarityEpic));
+
         ///////////END START
         END_ORE_IRIDIUM_GEN = register("end_ore_iridium_gen", Feature.ORE
                 .configured(new OreConfiguration(new TagMatchTest(Main.END_STONE),
@@ -254,6 +270,15 @@ public class WorldGen {
         END_ORE_CHRYSOCOLLA_GEN = register("end_ore_chrysocolla_gen", Feature.ORE
                 .configured(new OreConfiguration(new TagMatchTest(Main.END_STONE),
                         Registration.ORE_CHRYSOCOLLA.get().defaultBlockState(),
+                        GemVeinSize, // Vein size
+                        0.25F))  // Exposition of the Ore
+                .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(0), VerticalAnchor.absolute(256))))
+                .squared()
+                .count(RarityEpic));
+
+        END_ORE_VOID_GEN = register("end_ore_void_gen", Feature.ORE
+                .configured(new OreConfiguration(new TagMatchTest(Main.END_STONE),
+                        Registration.ORE_VOID.get().defaultBlockState(),
                         GemVeinSize, // Vein size
                         0.25F))  // Exposition of the Ore
                 .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(0), VerticalAnchor.absolute(256))))

@@ -51,6 +51,8 @@ public class Main
     public static Tag<Block> OVR_DEEPSLATE;
     public static Tag<Block> NETHER_GRASS;
     public static Tag<Block> OVR_DIRT;
+    public static Tag<Block> OVR_TUFF;
+    public static Tag<Block> NETHER_BLACKSTONE;
     private void setup(final FMLCommonSetupEvent event) {
         OVR_STONE = BlockTags.bind("gemcraft:overworld_stone");
         NETHER_STONE = BlockTags.bind("gemcraft:nether_stone");
@@ -64,6 +66,8 @@ public class Main
         OVR_DEEPSLATE= BlockTags.bind("gemcraft:overworld_deepslate");
         NETHER_GRASS= BlockTags.bind("gemcraft:nether_grass");
         OVR_DIRT= BlockTags.bind("gemcraft:overworld_dirt");
+        OVR_TUFF= BlockTags.bind("gemcraft:overworld_tuff");
+        NETHER_BLACKSTONE= BlockTags.bind("gemcraft:nether_blackstone");
         WorldGen.registerOres();
     }
 
