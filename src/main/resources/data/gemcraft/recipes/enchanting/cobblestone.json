@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "forge:blocks/stone"
+  },
+  "addition": {
+    "item": "gemcraft:essence_entropic"
+  },
+  "result": {
+    "item": "minecraft:cobblestone"
+  }
+}
