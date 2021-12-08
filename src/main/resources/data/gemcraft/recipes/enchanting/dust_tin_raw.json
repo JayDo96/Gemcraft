@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "forge:raw/tin"
+    "item": "forge:raws/tin"
   },
   "addition": {
     "item": "gemcraft:essence_entropic"
