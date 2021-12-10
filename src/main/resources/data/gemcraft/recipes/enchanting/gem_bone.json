@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_bone"
   },
   "addition": {
-    "item": "gemcraft:essence_entropic"
+    "tag": "forge:essences/death"
   },
   "result": {
     "item": "gemcraft:enchanted_bone"
