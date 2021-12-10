@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "forge:ores/gold"
+  },
+  "addition": {
+    "tag": "forge:essences/death"
+  },
+  "result": {
+    "item": "gemcraft:dust_gold"
+  }
+}
