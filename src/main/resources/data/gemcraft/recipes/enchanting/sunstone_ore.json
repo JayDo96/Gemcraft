@@ -1,10 +1,10 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "forge:ores/sunstone"
+    "tag": "forge:ores/sunstone"
   },
   "addition": {
-    "item": "gemcraft:essence_entropic"
+    "tag": "forge:essences/death"
   },
   "result": {
     "item": "gemcraft:rough_sunstone"
