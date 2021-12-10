@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_soulstone"
   },
   "addition": {
-    "item": "gemcraft:core_lush"
+    "tag": "forge:cores/lush"
   },
   "result": {
     "item": "gemcraft:enchanted_soulstone"
