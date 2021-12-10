@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_chromite"
   },
   "addition": {
-    "item": "gemcraft:shard_saturated"
+    "tag": "forge:shards/saturated"
   },
   "result": {
     "item": "gemcraft:enchanted_chromite"
