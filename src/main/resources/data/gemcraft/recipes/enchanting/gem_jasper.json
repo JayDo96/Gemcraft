@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_jasper"
   },
   "addition": {
-    "item": "gemcraft:essence_lush"
+    "tag": "forge:essences/nature"
   },
   "result": {
     "item": "gemcraft:enchanted_jasper"
