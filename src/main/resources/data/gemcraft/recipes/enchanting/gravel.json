@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "forge:blocks/cobblestone"
+    "tag": "forge:blocks/cobblestone"
   },
   "addition": {
     "tag": "forge:essences/death"
