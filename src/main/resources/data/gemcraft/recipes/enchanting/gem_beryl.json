@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_beryl"
   },
   "addition": {
-    "item": "gemcraft:shard_torrid"
+    "tag": "forge:shards/torrid"
   },
   "result": {
     "item": "gemcraft:enchanted_beryl"
