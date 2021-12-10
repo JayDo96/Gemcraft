@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:essence_saturated"-,
+      "gemcraft:essence_saturated",
       "gemcraft:essence_null"
     ]
   }
