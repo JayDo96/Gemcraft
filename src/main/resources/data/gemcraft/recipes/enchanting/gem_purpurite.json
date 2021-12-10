@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_purpurite"
   },
   "addition": {
-    "item": "gemcraft:core_frigid"
+    "tag": "forge:cores/frigid"
   },
   "result": {
     "item": "gemcraft:enchanted_purpurite"
