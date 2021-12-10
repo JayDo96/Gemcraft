@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:core_entropic",
+      "gemcraft:core_null"
+    ]
+  }
