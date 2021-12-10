@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:essence_frigid"
+      "gemcraft:essence_frigid",
+      "gemcraft:essence_null"
     ]
   }
