@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_jet"
   },
   "addition": {
-    "item": "gemcraft:essence_torrid"
+    "tag": "forge:essences/fire"
   },
   "result": {
     "item": "gemcraft:enchanted_jet"
