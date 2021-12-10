@@ -16,7 +16,10 @@
       "gemcraft:ore_iridium",
       "gemcraft:ore_void",
       "gemcraft:ore_soul",
-      "gemcraft:ore_hell"      
+      "gemcraft:ore_hell",
+      "gemcraft:brick_white",
+      "gemcraft:brick_purple",
+      "gemcraft:brick_obsidian"
     ]
   }
   
