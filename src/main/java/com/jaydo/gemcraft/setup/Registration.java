@@ -446,8 +446,8 @@ public class Registration {
 	public static final RegistryObject<Item> MECH_PLATINUM = ITEMS.register("mech_platinum",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> MECH_IRIDIUM = ITEMS.register("mech_iridium",() -> new MaterialItem(new Item.Properties()));
 	
-	public static final RegistryObject<Item> HAFT_SOFT = ITEMS.register("haft_soft",() -> new MaterialItem(new Item.Properties()));
-	public static final RegistryObject<Item> HAFT_HARD = ITEMS.register("haft_hard",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> HAFT_WOOD = ITEMS.register("haft_wood",() -> new MaterialItem(new Item.Properties()));
+	public static final RegistryObject<Item> HAFT_EXOTIC = ITEMS.register("haft_exotic",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> HAFT_NETHER = ITEMS.register("haft_nether",() -> new MaterialItem(new Item.Properties()));
 	public static final RegistryObject<Item> HAFT_END = ITEMS.register("haft_end",() -> new MaterialItem(new Item.Properties()));
 	
