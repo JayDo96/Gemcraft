@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:sliver_torrid"
+      "gemcraft:sliver_torrid",
+      "gemcraft:sliver_null"
     ]
   }
