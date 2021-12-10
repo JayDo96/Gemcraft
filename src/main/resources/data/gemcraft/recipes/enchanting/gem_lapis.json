@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_lapis"
   },
   "addition": {
-    "item": "gemcraft:essence_saturated"
+    "tag": "forge:essences/water"
   },
   "result": {
     "item": "gemcraft:enchanted_lapis"
