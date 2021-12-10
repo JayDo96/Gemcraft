@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_smoky_quartz"
   },
   "addition": {
-    "item": "gemcraft:shard_turbulent"
+    "tag": "forge:shards/turbulent"
   },
   "result": {
     "item": "gemcraft:enchanted_smoky_quartz"
