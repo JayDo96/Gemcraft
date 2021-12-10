@@ -1,10 +1,10 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "forge:ores/copper"
+    "tag": "forge:ores/copper"
   },
   "addition": {
-    "item": "gemcraft:essence_entropic"
+    "tag": "forge:essences/death"
   },
   "result": {
     "item": "gemcraft:dust_copper"
