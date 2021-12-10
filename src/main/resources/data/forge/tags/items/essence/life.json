@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:essence_catalyzing"
+      "gemcraft:essence_catalyzing",
+      "gemcraft:essence_null"
     ]
   }
