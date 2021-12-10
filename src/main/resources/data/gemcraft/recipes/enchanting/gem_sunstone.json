@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_sunstone"
   },
   "addition": {
-    "item": "gemcraft:core_radiant"
+    "tag": "forge:cores/radiant"
   },
   "result": {
     "item": "gemcraft:enchanted_sunstone"
