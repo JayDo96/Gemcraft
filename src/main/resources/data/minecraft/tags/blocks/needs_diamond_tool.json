@@ -13,7 +13,10 @@
       "gemcraft:ore_corundum",
       "gemcraft:ore_null",
       "gemcraft:ore_prismatic",
-      "gemcraft:ore_iridium"
+      "gemcraft:ore_iridium",
+      "gemcraft:ore_void",
+      "gemcraft:ore_soul",
+      "gemcraft:ore_hell"      
     ]
   }
   
