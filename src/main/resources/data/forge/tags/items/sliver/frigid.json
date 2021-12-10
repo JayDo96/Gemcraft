@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:sliver_frigid"
+      "gemcraft:sliver_frigid",
+      "gemcraft:sliver_null"
     ]
   }
