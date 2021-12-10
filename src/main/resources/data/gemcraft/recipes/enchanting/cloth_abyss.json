@@ -4,7 +4,7 @@
     "tag": "forge:cloths/dragon"
   },
   "addition": {
-    "tag": "forge:core/null"
+    "tag": "forge:cores/null"
   },
   "result": {
     "item": "gemcraft:cloth_abyss"
