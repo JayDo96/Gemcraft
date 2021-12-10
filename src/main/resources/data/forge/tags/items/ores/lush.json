@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:ore_lush_s",
+      "gemcraft:ore_lush_n",
+      "gemcraft:ore_lush_d"
+    ]
+  }
