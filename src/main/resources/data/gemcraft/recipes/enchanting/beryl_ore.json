@@ -4,7 +4,7 @@
     "item": "forge:ores/beryl"
   },
   "addition": {
-    "item": "gemcraft:essence_entropic"
+    "tag": "forge:essences/death"
   },
   "result": {
     "item": "gemcraft:rough_beryl"
