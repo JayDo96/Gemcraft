@@ -4,7 +4,7 @@
     "tag": "forge:cloths/rock"
   },
   "addition": {
-    "item": "gemcraft:shard_torrid"
+    "tag": "forge:shards/torrid"
   },
   "result": {
     "item": "gemcraft:cloth_flux"
