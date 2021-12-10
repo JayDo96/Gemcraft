@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_proustite"
   },
   "addition": {
-    "item": "gemcraft:essence_catalyzing"
+    "tag": "forge:essences/life"
   },
   "result": {
     "item": "gemcraft:enchanted_proustite"
