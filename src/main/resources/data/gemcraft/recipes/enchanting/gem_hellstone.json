@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_hellstone"
   },
   "addition": {
-    "item": "gemcraft:core_torrid"
+    "tag": "forge:cores/torrid"
   },
   "result": {
     "item": "gemcraft:enchanted_hellstone"
