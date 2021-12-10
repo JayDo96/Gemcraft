@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:sliver_prismatic"
+      "gemcraft:sliver_prismatic",
+      "gemcraft:sliver_null"
     ]
   }
