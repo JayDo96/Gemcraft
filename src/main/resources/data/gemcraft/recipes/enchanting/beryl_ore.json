@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "forge:ores/beryl"
+    "tag": "forge:ores/beryl"
   },
   "addition": {
     "tag": "forge:essences/death"
