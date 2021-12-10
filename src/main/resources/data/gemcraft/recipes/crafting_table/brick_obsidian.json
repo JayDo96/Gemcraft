@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ii",
+    "ii"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "gemcraft:brick_obsidian",
+    "count": 4
+  }
+}
