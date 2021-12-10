@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_aquamarine"
   },
   "addition": {
-    "item": "gemcraft:sliver_saturated"
+    "tag": "forge:slivers/saturated"
   },
   "result": {
     "item": "gemcraft:enchanted_aquamarine"
