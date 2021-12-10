@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "forge:ores/aquamarine"
+    "tag": "forge:ores/aquamarine"
   },
   "addition": {
     "tag": "forge:essences/death"
