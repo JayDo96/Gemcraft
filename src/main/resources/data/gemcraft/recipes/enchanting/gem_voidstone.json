@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_voidstone"
   },
   "addition": {
-    "item": "gemcraft:core_null"
+    "tag": "forge:cores/null"
   },
   "result": {
     "item": "gemcraft:enchanted_voidstone"
