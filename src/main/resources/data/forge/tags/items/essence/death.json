@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:essence_entropic"
+      "gemcraft:essence_entropic",
+      "gemcraft:essence_null"
     ]
   }
