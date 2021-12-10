@@ -4,7 +4,7 @@
     "item": "forge:blocks/stone"
   },
   "addition": {
-    "item": "gemcraft:essence_entropic"
+    "tag": "forge:essences/death"
   },
   "result": {
     "item": "minecraft:cobblestone"
