@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_garnet"
   },
   "addition": {
-    "item": "gemcraft:shard_lithic"
+    "tag": "forge:shards/lithic"
   },
   "result": {
     "item": "gemcraft:enchanted_garnet"
