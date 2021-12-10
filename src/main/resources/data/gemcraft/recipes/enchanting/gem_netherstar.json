@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_netherstar"
   },
   "addition": {
-    "item": "gemcraft:core_catalyzing"
+    "tag": "forge:cores/catalyzing"
   },
   "result": {
     "item": "gemcraft:enchanted_netherstar"
