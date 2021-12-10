@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:essence_xp"
+      "gemcraft:essence_xp",
+      "gemcraft:essence_null"
     ]
   }
