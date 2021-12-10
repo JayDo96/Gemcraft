@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_wither"
   },
   "addition": {
-    "item": "gemcraft:shard_entropic"
+    "tag": "forge:shards/entropic"
   },
   "result": {
     "item": "gemcraft:enchanted_wither"
