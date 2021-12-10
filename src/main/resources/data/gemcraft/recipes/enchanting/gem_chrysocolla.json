@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_chrysocolla"
   },
   "addition": {
-    "item": "gemcraft:shard_turbulent"
+    "tag": "forge:shards/turbulent"
   },
   "result": {
     "item": "gemcraft:enchanted_chrysocolla"
