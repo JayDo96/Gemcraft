@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_cinnabar"
   },
   "addition": {
-    "item": "gemcraft:sliver_lithic"
+   "tag": "forge:slivers/lithic"
   },
   "result": {
     "item": "gemcraft:enchanted_cinnabar"
