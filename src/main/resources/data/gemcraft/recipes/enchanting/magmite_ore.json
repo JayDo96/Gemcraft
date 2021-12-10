@@ -4,7 +4,7 @@
     "tag": "forge:ores/magmite"
   },
   "addition": {
-    "tag": "forge:essences/death""
+    "tag": "forge:essences/death"
   },
   "result": {
     "item": "gemcraft:rough_magmite"
