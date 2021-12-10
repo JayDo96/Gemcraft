@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:essence_radiant"
+      "gemcraft:essence_radiant",
+      "gemcraft:essence_null"
     ]
   }
