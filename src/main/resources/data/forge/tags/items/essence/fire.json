@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-      "gemcraft:essence_torrid"
+      "gemcraft:essence_torrid",
+      "gemcraft:essence_null"
     ]
   }
