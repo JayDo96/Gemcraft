@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:sliver_saturated.json",
+      "gemcraft:sliver_null"
+    ]
+  }
