@@ -13,11 +13,11 @@
       "tag": "forge:cloths/ardu"
     },
     "h": {
-      "tag": "gemcraft:category/hardwood"
+      "tag": "gemcraft:category/exoticwood"
     }
   },
   "result": {
-    "item": "gemcraft:haft_hard",
+    "item": "gemcraft:haft_exotic",
     "count": 1
   }
 }
