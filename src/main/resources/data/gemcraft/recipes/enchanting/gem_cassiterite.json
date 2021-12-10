@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_cassiterite"
   },
   "addition": {
-    "item": "gemcraft:essence_frigid"
+    "tag": "forge:essences/ice"
   },
   "result": {
     "item": "gemcraft:enchanted_cassiterite"
