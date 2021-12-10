@@ -4,7 +4,7 @@
     "tag": "forge:cloths/flax"
   },
   "addition": {
-    "item": "gemcraft:essence_radiant"
+    "tag": "forge:essences/light"
   },
   "result": {
     "item": "gemcraft:cloth_gleam"
