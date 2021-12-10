@@ -15,6 +15,9 @@
       "gemcraft:ore_purpurite",
       "gemcraft:ore_magmite",
       "gemcraft:ore_corundum",
+      "gemcraft:ore_soul",
+      "gemcraft:ore_void",
+      "gemcraft:ore_hell",
       "gemcraft:ore_xp_0",
       "gemcraft:ore_xp_2",
       "gemcraft:ore_turbulent",
@@ -43,7 +46,16 @@
       "gemcraft:storage_silver",
       "gemcraft:storage_elementum",
       "gemcraft:storage_platinum",
-      "gemcraft:storage_iridium"
+      "gemcraft:storage_iridium",
+      "gemcraft:storage_procrux",  
+      "gemcraft:storage_anticrux", 
+      "gemcraft:storage_quasicrux",
+      "gemcraft:storage_omnicrux",
+      "gemcraft:brick_red", 
+      "gemcraft:brick_blue",
+      "gemcraft:brick_purple",
+      "gemcraft:brick_black",
+      "gemcraft:brick_obsidian"
     ]
   }
   
