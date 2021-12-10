@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_obsidian"
   },
   "addition": {
-    "item": "gemcraft:shard_catalyzing"
+    "tag": "forge:shards/catalyzing"
   },
   "result": {
     "item": "gemcraft:enchanted_obsidian"
