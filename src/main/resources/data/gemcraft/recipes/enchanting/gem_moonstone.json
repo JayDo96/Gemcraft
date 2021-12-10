@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_moonstone"
   },
   "addition": {
-    "item": "gemcraft:core_turbulent"
+    "tag": "forge:cores/turbulent"
   },
   "result": {
     "item": "gemcraft:enchanted_moonstone"
