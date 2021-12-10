@@ -471,6 +471,9 @@ public class Registration {
 	public static final RegistryObject<StorageBlock> BRICK_OBSIDIAN = BLOCKS.register("brick_obsidian",StorageBlock::new);
 	public static final RegistryObject<BlockItem> ITEM_BRICK_OBSIDIAN= ITEMS.register("brick_obsidian",() -> new BlockItem(BRICK_OBSIDIAN.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
 	
+	public static final RegistryObject<StorageBlock> ENDSAND = BLOCKS.register("endsand",StorageBlock::new);
+	public static final RegistryObject<BlockItem> ITEM_ENDSAND= ITEMS.register("endsand",() -> new BlockItem(ENDSAND.get(),new Item.Properties().tab(Main.GemcraftTabMaterial)));
+	
 
 	//T1 items
 	public static final RegistryObject<Item> RING_BRONZE = ITEMS.register("ring_bronze",() -> new BaubleItem(new Item.Properties()));
