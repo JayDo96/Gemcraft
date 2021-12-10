@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "forge:ores/beryl"
+  },
+  "addition": {
+    "item": "gemcraft:essence_entropic"
+  },
+  "result": {
+    "item": "gemcraft:rough_beryl"
+  }
+}
