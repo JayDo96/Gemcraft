@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_sperrylite"
   },
   "addition": {
-    "item": "gemcraft:sliver_catalyzing"
+    "tag": "forge:slivers/catalyzing"
   },
   "result": {
     "item": "gemcraft:enchanted_sperrylite"
