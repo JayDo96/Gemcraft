@@ -10,7 +10,7 @@
       "tag": "forge:ingots/bronze"
     },
     "c": {
-      "item": "forge:cloths/flax"
+      "tag": "forge:cloths/flax"
     }
   },
   "result": {
