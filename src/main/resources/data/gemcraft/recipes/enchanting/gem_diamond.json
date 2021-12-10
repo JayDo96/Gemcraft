@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_diamond"
   },
   "addition": {
-    "item": "gemcraft:shard_frigid"
+    "tag": "forge:shards/frigid"
   },
   "result": {
     "item": "gemcraft:enchanted_diamond"
