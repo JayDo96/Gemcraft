@@ -53,6 +53,7 @@ public class Main
     public static Tag<Block> OVR_DIRT;
     public static Tag<Block> OVR_TUFF;
     public static Tag<Block> NETHER_BLACKSTONE;
+    public static Tag<Block> END_SAND;
     private void setup(final FMLCommonSetupEvent event) {
         OVR_STONE = BlockTags.bind("gemcraft:overworld_stone");
         NETHER_STONE = BlockTags.bind("gemcraft:nether_stone");
@@ -68,6 +69,7 @@ public class Main
         OVR_DIRT= BlockTags.bind("gemcraft:overworld_dirt");
         OVR_TUFF= BlockTags.bind("gemcraft:overworld_tuff");
         NETHER_BLACKSTONE= BlockTags.bind("gemcraft:nether_blackstone");
+	END_SAND= BlockTags.bind("gemcraft:end_sand");
         WorldGen.registerOres();
     }
 
