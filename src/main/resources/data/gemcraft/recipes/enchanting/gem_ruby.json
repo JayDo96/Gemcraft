@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_ruby"
   },
   "addition": {
-    "item": "gemcraft:sliver_torrid"
+    "tag": "forge:slivers/torrid"
   },
   "result": {
     "item": "gemcraft:enchanted_ruby"
