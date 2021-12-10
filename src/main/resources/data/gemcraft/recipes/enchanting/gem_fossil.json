@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_fossil"
   },
   "addition": {
-    "item": "gemcraft:sliver_entropic"
+   "tag": "forge:slivers/entropic"
   },
   "result": {
     "item": "gemcraft:enchanted_fossil"
