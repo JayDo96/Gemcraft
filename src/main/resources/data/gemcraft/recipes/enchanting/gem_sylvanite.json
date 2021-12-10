@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_sylvanite"
   },
   "addition": {
-    "item": "gemcraft:essence_lithic"
+    "tag": "forge:essences/rock"
   },
   "result": {
     "item": "gemcraft:enchanted_sylvanite"
