@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_sapphire"
   },
   "addition": {
-    "item": "gemcraft:sliver_frigid"
+    "tag": "forge:slivers/frigid"
   },
   "result": {
     "item": "gemcraft:enchanted_sapphire"
