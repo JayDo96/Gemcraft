@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_emerald"
   },
   "addition": {
-    "item": "gemcraft:shard_lush"
+    "tag": "forge:shards/lush"
   },
   "result": {
     "item": "gemcraft:enchanted_emerald"
