@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:core_saturated",
+      "gemcraft:core_null"
+    ]
+  }
