@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_prismarine"
   },
   "addition": {
-    "item": "gemcraft:core_saturated"
+    "tag": "forge:cores/saturated"
   },
   "result": {
     "item": "gemcraft:enchanted_prismarine"
