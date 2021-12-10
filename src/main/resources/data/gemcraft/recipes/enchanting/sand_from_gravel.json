@@ -1,10 +1,10 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "forge:blocks/gravel"
+    "tag": "forge:blocks/gravel"
   },
   "addition": {
-    "item": "gemcraft:essence_entropic"
+    "tag": "forge:essences/death"
   },
   "result": {
     "item": "minecraft:sand"
