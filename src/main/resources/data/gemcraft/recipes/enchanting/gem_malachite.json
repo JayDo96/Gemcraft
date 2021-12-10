@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_malachite"
   },
   "addition": {
-    "item": "gemcraft:essence_turbulent"
+    "tag": "forge:essences/air"
   },
   "result": {
     "item": "gemcraft:enchanted_malachite"
