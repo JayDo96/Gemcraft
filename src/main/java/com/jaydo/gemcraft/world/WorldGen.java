@@ -72,6 +72,8 @@ public class WorldGen {
     public static ConfiguredFeature<?, ?> END_ORE_VOID_GEN;
     public static ConfiguredFeature<?, ?> OVR_ORE_SOUL_GEN;
     public static ConfiguredFeature<?, ?> NETHER_ORE_HELL_GEN;
+    public static ConfiguredFeature<?, ?> END_SAND_GEN;
+    public static int SandVeinSize = 35;
     public static int GemVeinSize = 4;
     public static int EssenceVeinSizeS = 5;
     public static int EssenceVeinSizeL = 10;
@@ -277,13 +279,22 @@ public class WorldGen {
                 .count(RarityEpic));
 
         END_ORE_VOID_GEN = register("end_ore_void_gen", Feature.ORE
-                .configured(new OreConfiguration(new TagMatchTest(Main.END_STONE),
+                .configured(new OreConfiguration(new TagMatchTest(Main.END_SAND),
                         Registration.ORE_VOID.get().defaultBlockState(),
                         GemVeinSize, // Vein size
                         0.25F))  // Exposition of the Ore
                 .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(0), VerticalAnchor.absolute(256))))
                 .squared()
                 .count(RarityEpic));
+                
+         END_SAND_GEN = register("end_sand_gen", Feature.ORE
+                .configured(new OreConfiguration(new TagMatchTest(Main.END_STONE),
+                        Registration.ENDSAND.get().defaultBlockState(),
+                        SandVeinSize, // Vein size
+                        0.25F))  // Exposition of the Ore
+                .range(new RangeDecoratorConfiguration(UniformHeight.of(VerticalAnchor.absolute(0), VerticalAnchor.absolute(256))))
+                .squared()
+                .count(RarityUncommon));
 
         ///////////ESSENCE START
 
@@ -513,6 +524,8 @@ public class WorldGen {
 
         }
         if (event.getCategory().equals(Biome.BiomeCategory.THEEND)) {
+            if (END_SAND_GEN != null)
+                generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, END_SAND_GEN);
             if (END_ORE_IRIDIUM_GEN != null)
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, END_ORE_IRIDIUM_GEN);
             if (END_ORE_MOONSTONE_GEN != null)
@@ -531,6 +544,7 @@ public class WorldGen {
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, END_ORE_CHAOS_GEN);
             if (END_ORE_VOID_GEN != null)
                 generation.addFeature(GenerationStep.Decoration.UNDERGROUND_ORES, END_ORE_VOID_GEN);
+
         }
         if (!event.getCategory().equals(Biome.BiomeCategory.THEEND) &&(!event.getCategory().equals(Biome.BiomeCategory.NETHER))) {
             if (OVR_ORE_SILVER_GEN != null)
