@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_magmite"
   },
   "addition": {
-    "item": "gemcraft:core_entropic"
+    "tag": "forge:cores/entropic"
   },
   "result": {
     "item": "gemcraft:enchanted_magmite"
