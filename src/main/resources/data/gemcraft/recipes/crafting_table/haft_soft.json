@@ -13,11 +13,11 @@
       "tag": "forge:cloths/leam"
     },
     "h": {
-      "tag": "gemcraft:category/softwood"
+      "tag": "gemcraft:category/wood"
     }
   },
   "result": {
-    "item": "gemcraft:haft_soft",
+    "item": "gemcraft:haft_wood",
     "count": 1
   }
 }
