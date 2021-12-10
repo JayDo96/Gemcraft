@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "forge:ores/purpurite"
+  },
+  "addition": {
+    "item": "gemcraft:essence_entropic"
+  },
+  "result": {
+    "item": "gemcraft:rough_purpurite"
+  }
+}
