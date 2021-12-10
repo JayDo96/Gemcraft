@@ -4,7 +4,7 @@
     "item": "gemcraft:gem_glowstone"
   },
   "addition": {
-    "item": "gemcraft:shard_radiant"
+    "tag": "forge:shards/radiant"
   },
   "result": {
     "item": "gemcraft:enchanted_glowstone"
