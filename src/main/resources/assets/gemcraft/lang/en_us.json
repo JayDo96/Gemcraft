@@ -304,6 +304,24 @@
     "item.gemcraft.raw_quasicrux": "Raw Quasicrux",
     "item.gemcraft.raw_omnicrux": "Raw Omnicrux",
     
+    "block.gemcraft.brick_blue": "Blue Arcane Bricks",
+    "block.gemcraft.brick_red": "Red Arcane Bricks",
+    "block.gemcraft.brick_purple": "Purple Arcane Bricks",
+    "block.gemcraft.brick_white": "White Arcane Bricks",
+    "block.gemcraft.brick_elementum": "Elementum Bricks",
+    "block.gemcraft.brick_obsidian": "Obsidian Bricks",
+    
+    "item.gemcraft.brick_blue": "Blue Arcane Bricks",
+    "item.gemcraft.brick_red": "Red Arcane Bricks",
+    "item.gemcraft.brick_purple": "Purple Arcane Bricks",
+    "item.gemcraft.brick_white": "White Arcane Bricks",
+    "item.gemcraft.brick_elementum": "Elementum Bricks",
+    "item.gemcraft.brick_obsidian": "Obsidian Bricks",
+    
+    "block.gemcraft.endsand": "Endsand",
+    
+    "item.gemcraft.endsand": "Endsand",
+    
     "item.gemcraft.dust_gem": "Crushed Gem",
     "item.gemcraft.dust_bronze": "Bronze Dust",
     "item.gemcraft.dust_elementum": "Elementum Dust",
