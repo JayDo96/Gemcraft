@@ -1,5 +1,22 @@
-﻿{
-  "variants":  {
-      "": { "model": "gemcraft:block/ore_silver_s" }
+{
+  "variants": {
+    "": [
+            {
+        "model": "gemcraft:block/ore_silver_s",
+        "y": 0
+      },
+      {
+        "model": "gemcraft:block/ore_silver_s",
+        "y": 90
+      },
+      {
+        "model": "gemcraft:block/ore_silver_s",
+        "y": 180
+      },
+      {
+        "model": "gemcraft:block/ore_silver_s",
+        "y": 270
+      }
+    ]
   }
 }
