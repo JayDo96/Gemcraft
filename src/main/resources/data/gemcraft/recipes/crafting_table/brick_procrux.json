@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ece",
+    "cec",
+    "ece"
+  ],
+  "key": {
+    "e": {
+      "tag": "forge:dusts/procrux"
+    },
+    "c": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "gemcraft:brick_procrux",
+    "count": 5
+  }
+}
