@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ece",
+    "cec",
+    "ece"
+  ],
+  "key": {
+    "e": {
+      "tag": "forge:dusts/anticrux"
+    },
+    "c": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "gemcraft:brick_anticrux",
+    "count": 5
+  }
+}
