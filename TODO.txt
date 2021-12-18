@@ -1,11 +1,12 @@
 Need to removed the overiding of vanilla ore loot tables and instead inject the new pools into them so I wont run into mod compatibility issues
-Need to make textures for the Raw blocks for all the materials that have them
-Need to make ingot nugget block and raw textures for omnicrux anticrux procrux and quasicrux
+DONE: Need to make textures for the Raw blocks for all the materials that have them
+DONE: Need to make ingot nugget block and raw textures for omnicrux anticrux procrux and quasicrux
 Need to implement layered models for ore to ensure texture pack compatibilty and reduces the amount of assets
 Need to add Baubles as a depedency and implement it for adding the jewlery
-Need to add textures for voidstone hellstone soulstone and prismarine
-Need to add ore for voidstone hellstone soulstone and prismarine
-Need to add generations for voidstone hellstone soulstone and prismarine
+DONE: Need to add textures for voidstone hellstone soulstone and prismarine
+DONE: Need to add ore for voidstone hellstone soulstone and prismarine
+DONE: Need to add generations for voidstone hellstone soulstone and prismarine
 Need to work with Aerawave on getting higher quality textures for gems/roughs
 Need to make the tinted glint overlays for the enchanted gems
-Need to work on textures/code for the bags infe: https://github.com/Flanks255/simplybackpacks/tree/master/src/main/java/com/flanks255/simplybackpacks/items
+Need to work on textures/code for the bags info: https://github.com/Flanks255/simplybackpacks/tree/master/src/main/java/com/flanks255/simplybackpacks/items
+Need to make textures for the metal brick blocks
