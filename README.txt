@@ -43,7 +43,7 @@ Magmite - spawns in the nether near the bottom of the world
 Corundum - spawns in the overworld among the bedrock layer
 Netherstar - From vanilla game
 Dragonstone - drops from the enderdragon
-Soulstone- WIP
-Hellstone- WIP
-voidstone- WIP
-Prismarine- WIP
+Soulstone- Rare spawn in Tuff
+Hellstone- Rare spawn in Blackstone
+voidstone- Rare spawn in the end
+Prismarine- Drops from Ocean Monument boss 
