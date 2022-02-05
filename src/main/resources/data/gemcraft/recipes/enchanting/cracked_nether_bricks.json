@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:nether_bricks"
+  },
+  "addition": {
+   "tag": "forge:essences/fire"
+  },
+  "result": {
+    "item": "minecraft:cracked_nether_bricks"
+  }
+}
