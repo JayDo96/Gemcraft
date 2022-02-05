@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iridium"
+    },
+    {
+      "tag": "forge:core/radiant"
+    },
+    {
+      "tag": "forge:core/entropic"
+    }
+  ],
+  "result": {
+    "item": "minecraft:soul_lantern",
+    "count": 64
+  }
+}
