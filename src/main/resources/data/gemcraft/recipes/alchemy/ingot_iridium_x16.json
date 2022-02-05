@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/iridium"
+    },
+    {
+      "tag": "forge:shards/torrid"
+    },
+    {
+      "tag": "forge:shards/catalyzing"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_iridium",
+    "count": 16
+  }
+}
