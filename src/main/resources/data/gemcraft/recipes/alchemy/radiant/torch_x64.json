@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs"
+    },
+    {
+      "tag": "forge:slivers/radiant"
+    }
+  ],
+  "result": {
+    "item": "minecraft:torch",
+    "count": 64
+  }
+}
