@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/quasicrux"
+    },
+    {
+      "tag": "forge:essences/fire"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_quasicrux",
+    "count": 1
+  }
+}
