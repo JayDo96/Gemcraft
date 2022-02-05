@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/silver"
+    },
+    {
+      "tag": "forge:cores/torrid"
+    },
+    {
+      "tag": "forge:cores/catalyzing"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_silver",
+    "count": 64
+  }
+}
