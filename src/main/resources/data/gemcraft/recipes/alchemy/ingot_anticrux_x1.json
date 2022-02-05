@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/anticrux"
+    },
+    {
+      "tag": "forge:essences/fire"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_anticrux",
+    "count": 1
+  }
+}
