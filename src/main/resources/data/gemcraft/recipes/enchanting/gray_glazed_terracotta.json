@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:gray_terracotta"
+  },
+  "addition": {
+   "tag": "forge:essences/fire"
+  },
+  "result": {
+    "item": "minecraft:gray_glazed_terracotta"
+  }
+}
