@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "tag": "forge:slivers/prismatic"
+    },
+    {
+      "tag": "forge:slivers/catalyzing"
+    }
+  ],
+  "result": {
+    "item": "minecraft:green_dye",
+    "count": 4
+  }
+}
