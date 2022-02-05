@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs"
+    },
+    {
+      "tag": "forge:cores/torrid"
+    },
+    {
+      "tag": "forge:cores/catalyzing"
+    }
+  ],
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 64
+  }
+}
