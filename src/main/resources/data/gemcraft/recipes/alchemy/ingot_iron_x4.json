@@ -5,14 +5,14 @@
       "tag": "forge:dusts/copper"
     },
     {
-      "tag": "forge:essences/fire"
+      "tag": "forge:slivers/torrid"
     },
     {
-      "tag": "forge:essences/life"
+      "tag": "forge:slivers/catalyzing"
     }
   ],
   "result": {
     "item": "minecraft:iron_ingot",
-    "count": 2
+    "count": 4
   }
 }
