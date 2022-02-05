@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:essences/light"
+    }
+    ,
+    {
+      "tag": "forge:essences/death"
+    }
+  ],
+  "result": {
+    "item": "minecraft:soul_lantern",
+    "count": 1
+  }
+}
