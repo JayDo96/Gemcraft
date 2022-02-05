@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/platinum"
+    },
+    {
+      "tag": "forge:shards/radiant"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lantern",
+    "count": 16
+  }
+}
