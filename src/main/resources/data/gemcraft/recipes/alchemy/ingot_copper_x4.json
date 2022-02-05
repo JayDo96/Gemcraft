@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/copper"
+    },
+    {
+      "tag": "forge:slivers/torrid"
+    },
+    {
+      "tag": "forge:slivers/catalyzing"
+    }
+  ],
+  "result": {
+    "item": "minecraft:copper_ingot",
+    "count": 4
+  }
+}
