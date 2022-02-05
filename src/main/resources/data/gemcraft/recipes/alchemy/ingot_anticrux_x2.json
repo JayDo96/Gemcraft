@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/anticrux"
+    },
+    {
+      "tag": "forge:slivers/torrid"
+    },
+    {
+      "tag": "forge:slivers/catalyzing"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_anticrux",
+    "count": 2
+  }
+}
