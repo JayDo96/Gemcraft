@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/platinum"
+    },
+    {
+      "tag": "forge:shards/radiant"
+    },
+    {
+      "tag": "forge:shards/entropic"
+    }
+  ],
+  "result": {
+    "item": "minecraft:soul_lantern",
+    "count": 16
+  }
+}
