@@ -1,0 +1,40 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:light_gray_bed",
+      "minecraft:light_gray_carpet",
+      "minecraft:light_gray_concrete",
+      "minecraft:light_gray_concrete_powder",
+      "minecraft:light_gray_dye",
+      "minecraft:light_gray_glazed_terracotta",
+      "minecraft:light_gray_shulker_box",
+      "minecraft:light_gray_stained_glass",
+      "minecraft:light_gray_stained_glass_pane",
+      "minecraft:light_gray_terracotta",
+      "minecraft:light_gray_wool",
+      "minecraft:lodestone",
+      "minecraft:iron_block",
+      "minecraft:iron_ingot",
+      "minecraft:iron_axe"
+      "minecraft:iron_pickaxe"
+      "minecraft:iron_shovel"
+      "minecraft:iron_hoe"
+      "minecraft:iron_sword"
+      "minecraft:iron_helmet"
+      "minecraft:iron_chesplate"
+      "minecraft:iron_leggings"
+      "minecraft:iron_boots"
+      "minecraft:chainmail_helmet"
+      "minecraft:chainmail_chesplate"
+      "minecraft:chainmail_leggings"
+      "minecraft:chainmail_boots"
+      "minecraft:lodestone",
+      "minecraft:bucket",
+      "minecraft:compass",
+      "minecraft:clay_ball",
+      "minecraft:clay",
+      "minecraft:iron_horse_armor",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone_slabs"
+    ]
+  }
