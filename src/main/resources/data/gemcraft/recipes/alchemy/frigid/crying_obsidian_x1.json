@@ -5,14 +5,14 @@
       "item": "minecraft:lava_bucket"
     },
     {
-      "tag": "forge:essences/cold"
+      "tag": "forge:slivers/frigid"
     },
     {
-      "tag": "forge:essences/color"
+      "tag": "forge:slivers/prismatic"
     }
   ],
   "result": {
     "item": "minecraft:crying_obsidian",
-    "count": 1
+    "count": 2
   }
 }
