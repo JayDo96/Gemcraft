@@ -5,14 +5,14 @@
       "item": "minecraft:lava_bucket"
     },
     {
-      "tag": "forge:essences/cold"
+      "tag": "forge:slivers/frigid"
     },
     {
-      "tag": "forge:essences/water"
+      "tag": "forge:slivers/saturated"
     }
   ],
   "result": {
     "item": "minecraft:calcite",
-    "count": 1
+    "count": 2
   }
 }
