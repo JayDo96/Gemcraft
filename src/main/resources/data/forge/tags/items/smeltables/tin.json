@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:dust_tin",
+      "gemcraft:raw_tin",
+      "gemcraft:ore_tin"
+    ]
+  }
