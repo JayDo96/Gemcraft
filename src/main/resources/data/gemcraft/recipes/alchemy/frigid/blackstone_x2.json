@@ -5,17 +5,17 @@
       "item": "minecraft:lava_bucket"
     },
     {
-      "tag": "forge:essences/cold"
+      "tag": "forge:slivers/frigid"
     },
     {
-      "tag": "forge:essences/rock"
+      "tag": "forge:slivers/lithic"
     },
     {
-      "tag": "forge:essences/color"
+      "tag": "forge:slivers/prismatic"
     }
   ],
   "result": {
     "item": "minecraft:blackstone",
-    "count": 1
+    "count": 2
   }
 }
