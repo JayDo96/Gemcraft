@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:smeltables/platinum"
+    },
+    {
+      "tag": "forge:essences/fire"
+    },
+    {
+      "tag": "forge:essences/fire"
+    },
+    {
+      "tag": "forge:essences/fire"
+    },
+    {
+      "tag": "forge:essences/fire"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:ingot_platinum",
+    "count": 1
+  }
+}
