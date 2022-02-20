@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:dust_iridium",
+      "gemcraft:raw_iridium",
+      "gemcraft:ore_iridium"
+    ]
+  }
