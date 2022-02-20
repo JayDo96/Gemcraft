@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "tag": "forge:essences/cold"
+    },
+    {
+      "tag": "forge:essences/rock"
+    },
+    {
+      "tag": "forge:essences/color"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blackstone",
+    "count": 1
+  }
+}
