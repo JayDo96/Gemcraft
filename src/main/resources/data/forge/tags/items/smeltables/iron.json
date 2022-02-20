@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:dust_iron",
+      "minecraft:raw_iron",
+      "minecraft:iron_ore",
+      "minecraft:deepslate_iron_ore"
+    ]
+  }
