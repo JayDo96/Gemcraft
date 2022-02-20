@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/grey"
+    },
+    {
+      "tag": "forge:slivers/prismatic"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:storage_gray",
+    "count": 1
+  }
+}
