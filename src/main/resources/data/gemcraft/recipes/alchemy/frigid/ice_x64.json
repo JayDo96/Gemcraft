@@ -5,7 +5,7 @@
       "item": "minecraft:water_bucket"
     },
     {
-      "tag": "forge:core/frigid"
+      "tag": "forge:cores/frigid"
     }
   ],
   "result": {
