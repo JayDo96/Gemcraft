@@ -5,17 +5,17 @@
       "item": "minecraft:lava_bucket"
     },
     {
-      "tag": "forge:essences/cold"
+      "tag": "forge:slivers/frigid"
     },
     {
-      "tag": "forge:essences/death"
+      "tag": "forge:slivers/entropic"
     },
     {
-      "tag": "forge:essences/fire"
+      "tag": "forge:slivers/torrid"
     }
   ],
   "result": {
     "item": "minecraft:basalt",
-    "count": 1
+    "count": 2
   }
 }
