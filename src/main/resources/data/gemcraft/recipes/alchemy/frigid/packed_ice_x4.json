@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "tag": "forge:slivers/frigid"
+    },
+    {
+      "tag": "forge:slivers/saturated"
+    }
+  ],
+  "result": {
+    "item": "minecraft:packed_ice",
+    "count":4
+  }
+}
