@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/black"
+    },
+    {
+      "tag": "forge:core/prismatic"
+    }
+  ],
+  "result": {
+    "item": "gemcraft:storage_black",
+    "count": 28
+  }
+}
