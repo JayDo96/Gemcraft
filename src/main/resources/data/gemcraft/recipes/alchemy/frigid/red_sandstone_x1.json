@@ -5,17 +5,17 @@
       "item": "minecraft:lava_bucket"
     },
     {
-      "tag": "forge:essences/cold"
+      "tag": "forge:slivers/frigid"
     },
     {
-      "tag": "forge:essences/air"
+      "tag": "forge:slivers/turbulent"
     },
     {
-      "tag": "forge:essences/color"
+      "tag": "forge:slivers/prismatic"
     }
   ],
   "result": {
     "item": "minecraft:red_sandstone",
-    "count": 1
+    "count": 2
   }
 }
