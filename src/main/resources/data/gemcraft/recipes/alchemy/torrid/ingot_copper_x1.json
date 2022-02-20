@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/copper"
+    },
+    {
+      "tag": "forge:essences/fire"
+    },
+    {
+      "tag": "forge:essences/fire"
+    },
+    {
+      "tag": "forge:essences/fire"
+    },
+    {
+      "tag": "forge:essences/fire"
+    }
+  ],
+  "result": {
+    "item": "minecraft:copper_ingot",
+    "count": 1
+  }
+}
