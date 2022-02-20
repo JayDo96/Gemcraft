@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs"
+    },
+    {
+      "tag": "forge:essences/fire"
+    },
+    {
+      "tag": "forge:essences/fire"
+    },
+    {
+      "tag": "forge:essences/fire"
+    },
+    {
+      "tag": "forge:essences/fire"
+    }
+  ],
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 1
+  }
+}
