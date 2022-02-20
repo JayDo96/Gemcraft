@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "tag": "forge:shards/frigid"
+    },
+    {
+      "tag": "forge:shards/entropic"
+    },
+    {
+      "tag": "forge:shards/torrid"
+    }
+  ],
+  "result": {
+    "item": "minecraft:basalt",
+    "count": 12
+  }
+}
