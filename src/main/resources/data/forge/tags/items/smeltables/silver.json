@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "gemcraft:dust_silver",
+      "gemcraft:raw_silver",
+      "gemcraft:ore_silver_s",
+      "gemcraft:ore_silver_d"
+    ]
+  }
