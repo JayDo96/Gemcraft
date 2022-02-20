@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "forge:dusts/gold"
+      "tag": "forge:smeltables/gold"
     },
     {
       "tag": "forge:essences/fire"
