@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:essences/cold"
+    },
+    {
+      "tag": "forge:essences/water"
+    }
+  ],
+  "result": {
+    "item": "minecraft:snow_ball",
+    "count": 4
+  }
+}
