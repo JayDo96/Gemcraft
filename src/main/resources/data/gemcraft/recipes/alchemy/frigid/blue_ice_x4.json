@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "tag": "forge:slivers/frigid"
+    },
+    {
+      "tag": "forge:slivers/saturated"
+    },
+    {
+      "tag": "forge:slivers/saturated"
+    },
+    {
+      "tag": "forge:slivers/prismatic"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blue_ice",
+    "count":4
+  }
+}
