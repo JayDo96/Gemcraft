@@ -5,14 +5,14 @@
       "item": "minecraft:lava_bucket"
     },
     {
-      "tag": "forge:essences/cold"
+      "tag": "forge:slivers/frigid"
     },
     {
-      "tag": "forge:essences/fire"
+      "tag": "forge:slivers/torrid"
     }
   ],
   "result": {
     "item": "minecraft:tuff",
-    "count": 1
+    "count": 2
   }
 }
