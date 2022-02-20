@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "tag": "forge:cores/frigid"
+    },
+    {
+      "tag": "forge:cores/turbulent"
+    },
+    {
+      "tag": "forge:cores/prismatic"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_sandstone",
+    "count": 64
+  }
+}
