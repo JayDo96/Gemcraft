@@ -5,10 +5,10 @@
       "item": "minecraft:water_bucket"
     },
     {
-      "tag": "forge:core/frigid"
+      "tag": "forge:essences/cold"
     },
     {
-      "tag": "forge:core/water"
+      "tag": "forge:essences/water"
     }
   ],
   "result": {
